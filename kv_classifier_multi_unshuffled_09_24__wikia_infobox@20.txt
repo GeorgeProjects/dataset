@@ -1,0 +1,482 @@
+key, text, label, prediction
+b'https://13reasonswhy.fandom.com/wiki/The_Little_Girl'	"The Missing Page"	0.000000	0.020866
+b'https://24.fandom.com/wiki/Heather_Nauert_Norby'	Heather Nauert	0.000000	0.005401
+b'https://90210.fandom.com/wiki/California_University'	Los Angeles	0.000000	0.004558
+b'https://aceattorney.fandom.com/wiki/Phoenix_Wright:_Ace_Attorney:_Trials_and_Tribulations'	CERO: B ESRB: T PEGI: 12+ ACB: PG	0.000000	0.006389
+b'https://adventuretime.fandom.com/wiki/Mushroom_War'	"Tree Trunks" (evidenced) "Video Makers" (official)	0.000000	0.024220
+b'https://agentsofshield.fandom.com/wiki/Ragtag'	"Beginning of the End"	0.000000	0.062766
+b'https://ageofempires.fandom.com/wiki/Dojo'	40	0.000000	0.003959
+b'https://agt.fandom.com/wiki/Adrian_Romoff'	Quarterfinalist	0.000000	0.986508
+b'https://agt.fandom.com/wiki/Ivan_the_%22Urban_Action_Figure%22'	Vegas Round	0.000000	0.695491
+b'https://aliceinwonderland.fandom.com/wiki/Eat_Me_Cake'	Makes a person grow	0.000000	0.985923
+b'https://aliens.fandom.com/wiki/Xenomorph'	H. R. Giger Carlo Rambaldi	0.000000	0.004220
+b'https://americandad.fandom.com/wiki/There_Will_Be_Bad_Blood'	Plot	1.000000	0.995565
+b'https://americanhorrorstory.fandom.com/wiki/Moira_O%27Hara'	Appearances	1.000000	0.996459
+b'https://angrybirds.fandom.com/wiki/Angry_Birds_Champions'	Worldwinner/Rovio Entertainment Ltd	0.000000	0.003997
+b'https://animal-jam-clans.fandom.com/wiki/EchoClan'	Domesticated Felines	0.000000	0.066220
+b'https://animal-jam-clans.fandom.com/wiki/Foxleaf_(iloveroleplay)'	BACKSTORY	1.000000	0.976009
+b'https://animalcrossing.fandom.com/wiki/Dace'	Vandoise Hasel Lasca Leucisco	0.000000	0.014095
+b'https://animalcrossing.fandom.com/wiki/The_Roost'	El Alpiste Café Taubenschlag 카페 La Piccionaia	0.000000	0.013012
+b'https://animaljam.fandom.com/wiki/Computer'	75 Gems	0.000000	0.007133
+b'https://ansatsukyoshitsu.fandom.com/wiki/Karma_Akabane'	Masaki Suda	0.000000	0.004411
+b'https://aonoexorcist.fandom.com/wiki/Azazel'	Chapter 87	0.000000	0.014976
+b'https://archer.fandom.com/wiki/Woodhouse'	Sterling Archer (caregiver)	0.000000	0.006310
+b'https://archiesonic.fandom.com/wiki/Sonic_the_Hedgehog'	Super Sonic Werehog	0.000000	0.011002
+b'https://arkhamcity.fandom.com/wiki/Nyssa_Raatko'	Detective Comics #783 (August 2003)	0.000000	0.005152
+b'https://arrow.fandom.com/wiki/Earth_One'	Cyborgs Humans Meta-humans Thanagarians Dominators	0.000000	0.018370
+b'https://aselia.fandom.com/wiki/Tear_Grants'	Kousuke Fujishima	0.000000	0.004124
+b'https://assassinscreed.fandom.com/wiki/Th%C3%A9roigne_de_M%C3%A9ricourt'	Natalia Payne	0.000000	0.005360
+b'https://attackontitan.fandom.com/wiki/Attack_on_Titan_2_(Game)'	March 20, 2018	0.000000	0.003736
+b'https://avatar.fandom.com/wiki/Flying_bison'	Turf Wars Part Three	0.000000	0.011237
+b'https://avp.fandom.com/wiki/The_Predator_(film)'	Predators	0.000000	0.032874
+b'https://bakemonogatari.fandom.com/wiki/Zoku_Owarimonogatari_(anime)'	Orokamonogatari(?)	0.000000	0.005394
+b'https://bakerstreet.fandom.com/wiki/Joan_Watson'	Lucy Liu	0.000000	0.004558
+b'https://bakugan.fandom.com/wiki/Bakugan:_Battle_Planet'	Bakugan: Battle Planet Season 2	0.000000	0.005123
+b'https://baldursgate.fandom.com/wiki/Oublek_the_Bounty_Officer'	Baldur's Gate, Baldur's Gate: Enhanced Edition	0.000000	0.010913
+b'https://barbiemovies.fandom.com/wiki/Bibble'	Lee Tockar	0.000000	0.005439
+b'https://barney.fandom.com/wiki/Barney_Safety'	Making New Friends	0.000000	0.533925
+b'https://batesmotel.fandom.com/wiki/Persuasion'	"Unbreak-Able"	0.000000	0.025780
+b'https://battle-cats.fandom.com/wiki/All_Hallows_Road_(Celebration_Event)'	Pumpdoge Sa-Bat Dracowla Ecto Doge Ecto Snache Ecto Baa Baa	0.000000	0.023431
+b'https://battlefield.fandom.com/wiki/Huang_Shuyi'	Alive or MIA (Player Choice)	0.000000	0.739379
+b'https://battlefordreamisland.fandom.com/wiki/Leafy'	Michael Huang	0.000000	0.004642
+b'https://battlefront.fandom.com/wiki/Star_Wars_Battlefront_(DICE)'	ESRB Teen, PEGI 16+	0.000000	0.005441
+b'https://bayonetta.fandom.com/wiki/Bayonetta_(character)'	Panther Crow Bat Snake (Bayonetta 2 only)	0.000000	0.005290
+b'https://baywatch.fandom.com/wiki/Baywatch'	1989–2001	0.000000	0.102000
+b'https://bendy.fandom.com/wiki/Henry_Stein'	theMeatly	0.000000	0.011096
+b'https://beyblade.fandom.com/wiki/Kai_Hiwatari'	Go Shoot! Battle Start!!	0.000000	0.125700
+b'https://bigbangtheory.fandom.com/wiki/David_Saltzberg'	All	0.000000	0.987826
+b'https://bigbangtheory.fandom.com/wiki/Leonard_Hofstadter'	S1 S2 S3 S4 S5 S6 S7 S8 S9 S10 S11 S12	0.000000	0.007711
+b'https://bigbrother.fandom.com/wiki/Big_Brother_Canada_5'	Big Brother Canada 6	0.000000	0.005954
+b'https://bioshock.fandom.com/wiki/ADAM%27s_Changes'	On the desk in Emergency Access.	0.000000	0.702963
+b'https://blackclover.fandom.com/wiki/Gordon_Agrippa'	Mike McFarland	0.000000	0.004593
+b'https://bladerunner.fandom.com/wiki/Roy_Batty'	Rutger Hauer	0.000000	0.005260
+b'https://blazblue.fandom.com/wiki/BlazBlue:_Cross_Tag_Battle'	Resonance	0.000000	0.996566
+b'https://bleach.fandom.com/wiki/Zanpakut%C5%8D'	Shinigami, Arrancar, Visored	0.000000	0.005007
+b'https://bloodborne.fandom.com/wiki/Huntsman%27s_Minion'	Blood Vial x2-4, Shining Coins x2-3	0.000000	0.005117
+b'https://boboiboy.fandom.com/wiki/BoBoiBoy_(Character)'	BoBoiBoy Season 1 Season 2 Season 3 BoBoiBoy: The Movie BoBoiBoy Galaxy	0.000000	0.008178
+b'https://bobs-burgers.fandom.com/wiki/The_Last_Gingerbread_House_on_the_Left'	"Ex MachTina"	0.000000	0.023858
+b'https://bojackhorseman.fandom.com/wiki/Vincent_Adultman'	Higher Love	0.000000	0.231488
+b'https://bones.fandom.com/wiki/Temperance_Brennan'	The End in the End	0.000000	0.154976
+b'https://borderlands.fandom.com/wiki/Tales_from_the_Borderlands'	Microsoft Windows Mac OS X PlayStation 3 PlayStation 4 Xbox 360 Xbox One iOS Android	0.000000	0.005847
+b'https://brickbronze.fandom.com/wiki/Route_7'	HM3 Surf Haunted Badge	0.000000	0.008987
+b'https://brooklyn99.fandom.com/wiki/Doug_Judy'	Craig Robinson	0.000000	0.003986
+b'https://buddyfight.fandom.com/wiki/Great_Raging_Dragon,_Zargilragne_%E2%80%9CCrazed_Claw_Raging_Fang%E2%80%9D'	Gallery	Tips	Rulings Errata	Trivia	Character	0.000000	0.213611
+b'https://buffy.fandom.com/wiki/Kendra_Young'	Bianca Lawson	0.000000	0.004684
+b'https://callofduty.fandom.com/wiki/William_Robert_Irons'	Induction	0.000000	0.996410
+b'https://capcom.fandom.com/wiki/Claire_Redfield'	Weapons and Melee	0.000000	0.782146
+b'https://cartoonnetwork.fandom.com/wiki/Class_of_3000'	Ended	0.000000	0.994939
+b'https://castlevania.fandom.com/wiki/Shanoa'	An Empty Tome (OoE, Judgment, HD)	0.000000	0.008308
+b'https://ccsakura.fandom.com/wiki/Chapter_1'	Chapter 2	0.000000	0.542273
+b'https://charmed.fandom.com/wiki/Halliwell_Spirit_Board'	The Halliwell family	0.000000	0.010287
+b'https://childsplay.fandom.com/wiki/Charles_Lee_Ray'	Child's Play	0.000000	0.280599
+b'https://choices-stories-you-play.fandom.com/wiki/Eva'	Book 1, Chapter 1	0.000000	0.036040
+b'https://christmas-specials.fandom.com/wiki/Hermey'	Rudolph the Red-Nosed Reindeer Rudolph and the Island of Misfit Toys	0.000000	0.005746
+b'https://cinemorgue.fandom.com/wiki/Funny_Games_(2007)'	Michael Haneke	0.000000	0.004509
+b'https://civilization.fandom.com/wiki/Ashurbanipal_(Civ5)'	Antonio Calderon	0.000000	0.004416
+b'https://clubpenguin.fandom.com/wiki/Rules'	All over Club Penguin	0.000000	0.094079
+b'https://cnc.fandom.com/wiki/Tesla_coil_(Red_Alert_1)'	Cannot shoot when power is cut off	0.000000	0.965629
+b'https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia'	See Britannian Imperial Family	0.000000	0.782858
+b'https://community-sitcom.fandom.com/wiki/Abed_Nadir'	GUBI NADIR (FATHER), UNNAMED MOTHER, ABRA (COUSIN)	0.000000	0.008809
+b'https://coronationstreet.fandom.com/wiki/Ena_Sharples'	Violet Carson	0.000000	0.005341
+b'https://counterstrike.fandom.com/wiki/IDF_Defender'	weapon_galil	0.000000	0.992263
+b'https://crashbandicoot.fandom.com/wiki/Crash_Bandicoot_(video_game)'	Single player	0.000000	0.690858
+b'https://criminalminds.fandom.com/wiki/Robert_Hansen'	Deceased (unknown causes)	0.000000	0.981340
+b'https://criticalrole.fandom.com/wiki/Gryffin_Errondil'	19	0.000000	0.003817
+b'https://csi.fandom.com/wiki/Homebodies'	Feeling the Heat	0.000000	0.047981
+b'https://cuphead.fandom.com/wiki/Cuphead_(game)'	Steam Microsoft Cuphead website GOG	0.000000	0.631176
+b'https://dancemoms.fandom.com/wiki/Cathy_Nesbitt-Stein'	Same Old Frenemies Part 2	0.000000	0.007490
+b'https://danganronpa.fandom.com/wiki/Kyoko_Kirigiri'	Rei Okamoto Natsumi Okamoto	0.000000	0.005063
+b'https://danmachi.fandom.com/wiki/Yamato_Mikoto'	Margaret Lewis	0.000000	0.005051
+b'https://dannyphantom.fandom.com/wiki/Phantom_Planet'	Phantom Planet/Transcript	0.000000	0.431594
+b'https://date-a-live.fandom.com/wiki/Date_A_Live_%E2%85%A1_Episode_2'	Wish of the Two	0.000000	0.069806
+b'https://dbz-dokkanbattle.fandom.com/wiki/Unrelenting_Fighter_Gohan_(Kid)'	10/14	0.000000	0.003795
+b'https://dc.fandom.com/wiki/Animal_Man_Vol_1_5'	None	0.000000	0.383183
+b'https://dcextendeduniverse.fandom.com/wiki/Aquaman'	Jason Momoa Kekoa Kekumano (16) Otis Dhanji (13) Kaan Guldur (9)	0.000000	0.012356
+b'https://dcmovies.fandom.com/wiki/Lenny_Luthor'	Jon Cryer	0.000000	0.004104
+b'https://dcuniverseonline.fandom.com/wiki/Oracle'	Bat Family, Birds of Prey, Justice League of America	0.000000	0.004304
+b'https://deadliestfiction.fandom.com/wiki/Stormtroopers_(Star_Wars_Legends)'	Victorious over Mobile Infantry (Starship Troopers). Defeated by Imperial Guard (Warhammer 40,000).	0.000000	0.038525
+b'https://deadoralive.fandom.com/wiki/Dead_or_Alive_Xtreme_Beach_Volleyball'	ELSPA: 15+ ESRB: Mature PEGI: 16+ PEGI: 15+ (Finland)	0.000000	0.005916
+b'https://deadrising.fandom.com/wiki/Dead_Rising_3'	ESRB: Mature 17+ PEGI: 18+	0.000000	0.006239
+b'https://deathbattle.fandom.com/wiki/Starscream_VS_Rainbow_Dash'	Master Chief VS Doomguy	0.000000	0.032611
+b'https://deathbattlefanon.fandom.com/wiki/Lu_Bu'	???	0.000000	0.007475
+b'https://deathnote.fandom.com/wiki/Death_Note_(anime)'	37 (List of Episodes)	0.000000	0.004854
+b'https://degrassi.fandom.com/wiki/Drake_(entertainer)'	Drizzy (drake)	0.000000	0.845850
+b'https://descendants.fandom.com/wiki/Gaston_the_Third'	GALLERY QUOTES RELATIONSHIPS	0.000000	0.838657
+b'https://desperatehousewives.fandom.com/wiki/Mike_Delfino'	S1 - S2 - S3 - S4 - S5 - S6 - S7 - S8	0.000000	0.006689
+b'https://despicableme.fandom.com/wiki/Big_Blaster_Cannon'	Despicable Me Despicable Me: Minion Rush	0.000000	0.006995
+b'https://deusex.fandom.com/wiki/Deus_Ex:_Invisible_War'	CD-ROM DVD Steam	0.000000	0.107945
+b'https://devilman.fandom.com/wiki/Devilman_Crybaby'	Science Saru	0.000000	0.026595
+b'https://devilmaycry.fandom.com/wiki/Lady'	Stephanie Cheeva (DMC3) Laura Napoli (DMC4)	0.000000	0.011089
+b'https://diabolik-lovers.fandom.com/wiki/Diabolik_Lovers_~Haunted_Dark_Bridal~'	PlayStation Portable, PlayStation Vita	0.000000	0.004419
+b'https://diary-of-a-wimpy-kid.fandom.com/wiki/Diary_of_a_Wimpy_Kid_(2010_film)'	Diary of a Wimpy Kid: Rodrick Rules (film)	0.000000	0.005271
+b'https://digimon.fandom.com/wiki/Guilmon'	BlackGuilmon Guilmon X	0.000000	0.009135
+b'https://disney.fandom.com/wiki/Lucy_Pevensie'	Quote	1.000000	0.996541
+b'https://disneyprincess.fandom.com/wiki/The_Little_Mermaid'	The Little Mermaid II	0.000000	0.006261
+b'https://divergent.fandom.com/wiki/Veronica_Roth'	Author	0.000000	0.996422
+b'https://divinity.fandom.com/wiki/Divinity:_Original_Sin_II'	Microsoft Windows, Playstation 4, Xbox-one	0.000000	0.004288
+b'https://dora.fandom.com/wiki/Map'	Marc Weiner	0.000000	0.004846
+b'https://doraemon.fandom.com/wiki/Doraemon'	Other language(s) cast	1.000000	0.996328
+b'https://downtonabbey.fandom.com/wiki/Thomas_Barrow'	Rob James-Collier	0.000000	0.003807
+b'https://dragonage.fandom.com/wiki/A_King%27s_Confidant'	Dragon Age: Origins - Return to Ostagar	0.000000	0.004622
+b'https://dragonball.fandom.com/wiki/Scouter'	Scout-Scope 3D Scan Mode Dragon Radar Ki Sense Power Meter	0.000000	0.055837
+b'https://dragonballuniverse.fandom.com/wiki/Super_Saiyan_Blue'	Technique Image Gallery	0.000000	0.674146
+b'https://dragonsdogma.fandom.com/wiki/Banshee_Locks'	Materials	0.000000	0.996191
+b'https://dragonvale.fandom.com/wiki/Jet_Dragon'	Game Description	1.000000	0.963548
+b'https://dreamworks.fandom.com/wiki/Ms._Grunion'	Quote	1.000000	0.996541
+b'https://eastenders.fandom.com/wiki/Connor_Stanley'	Kendra Stanley	0.000000	0.005507
+b'https://eddsworld.fandom.com/wiki/Old_Lady'	Dave McElfatrick	0.000000	0.004847
+b'https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Dawnguard'	4E 201	0.000000	0.003787
+b'https://emmerdale.fandom.com/wiki/Caf%C3%A9_Main_Street'	Former employees	1.000000	0.993795
+b'https://ensemble-stars.fandom.com/wiki/(First_Tricks_of_the_Monkey)_Madara_Mikejima'	Increases rate of Fever	0.000000	0.996050
+b'https://epicrapbattlesofhistory.fandom.com/wiki/The_Jackson_Five'	Yellow and purple flowers	0.000000	0.525627
+b'https://ex515.fandom.com/wiki/Cree_Lincoln'	Occupation	1.000000	0.996369
+b'https://expanse.fandom.com/wiki/Nauvoo_(TV)'	Engineering converted into port for shipping to dock when in the Slow Zone	0.000000	0.791691
+b'https://fairlyoddparents.fandom.com/wiki/Poof'	Voiced by	1.000000	0.993291
+b'https://fairytail.fandom.com/wiki/Fairy_Tail_(Series)'	TBA (Episodes)	0.000000	0.947805
+b'https://fairytailcouples.fandom.com/wiki/Gruvia'	Gruvia/Image Gallery	0.000000	0.009403
+b'https://fairytailfanon.fandom.com/wiki/Marcus_Delain'	Silent Killing Magic Predator Magic Sealing Magic: Maximum Tatoo Defense True Shake Magic	0.000000	0.014566
+b'https://fallout.fandom.com/wiki/Melee_Weapons'	?	0.000000	0.033527
+b'https://fallout.fandom.com/wiki/Vault_63'	Vault 63 terminal entries	0.000000	0.448286
+b'https://familyguy.fandom.com/wiki/Bonnie_Swanson'	Jennifer Tilly Portia de Rossi in "A House Full of Peters"	0.000000	0.008218
+b'https://fantendo.fandom.com/wiki/Jumpman'	Mario	0.000000	0.061328
+b'https://farcry.fandom.com/wiki/The_Path_(Pilgrimage)'	Nearby Locations	1.000000	0.995600
+b'https://fastandfurious.fandom.com/wiki/2001_Honda_S2000'	2000 Honda S2000	0.000000	0.005081
+b'https://fategrandorder.fandom.com/wiki/Artoria_Pendragon'	Female	0.000000	0.048427
+b'https://fategrandorder.fandom.com/wiki/Minamoto_no_Raik%C5%8D'	Female	0.000000	0.048427
+b'https://ffxiclopedia.fandom.com/wiki/Kreutzet'	A, L, S, H 10,000~11,000 HP	0.000000	0.004633
+b'https://filthy-frank.fandom.com/wiki/Goomba'	Unknown	0.000000	0.803293
+b'https://fireemblem.fandom.com/wiki/Lucina'	English	1.000000	0.020844
+b'https://fma.fandom.com/wiki/Alex_Louis_Armstrong'	Kenji Utsumi	0.000000	0.004016
+b'https://fnaf-sister-location.fandom.com/wiki/Custom_Night'	Animatronics	1.000000	0.378466
+b'https://fnaf-world-rpg.fandom.com/wiki/Fredbear'	Christopher McCullough	0.000000	0.004125
+b'https://forgeofempires.fandom.com/wiki/Gate_Statue_East'	Winter Event 2013, 2014, 2015, 2016, 2018	0.000000	0.009761
+b'https://forgottenrealms.fandom.com/wiki/Aglarond'	Simbarch Council Founder: Brindor Olósynne	0.000000	0.012591
+b'https://forhonor.fandom.com/wiki/Shinobi'	2.83 m/s, 3.18 m/s (super sprint)	0.000000	0.004432
+b'https://freddy-fazbears-pizza.fandom.com/wiki/Chica'	Night 1	0.000000	0.123034
+b'https://fridaythe13th.fandom.com/wiki/Jason_Voorhees'	Cause of Death	1.000000	0.996464
+b'https://friends.fandom.com/wiki/Megan_Bailey'	Andrea Bendewald	0.000000	0.004316
+b'https://fullhouse.fandom.com/wiki/Tanner%27s_Island'	Back to School Blues	0.000000	0.015484
+b'https://futurama.fandom.com/wiki/Rebirth'	"In-A-Gadda-Da-Leela"	0.000000	0.016737
+b'https://gameofthrones.fandom.com/wiki/Daenerys_Targaryen'	Emilia Clarke	0.000000	0.004151
+b'https://gameshows.fandom.com/wiki/Cat_Gray'	music director	0.000000	0.990873
+b'https://general-hospital.fandom.com/wiki/Hayden_Barnes_(Rebecca_Budig)'	First cousins	1.000000	0.995569
+b'https://ghibli.fandom.com/wiki/Sheeta'	Lara Cody (as Louise Chambell)	0.000000	0.005579
+b'https://ghostbusters.fandom.com/wiki/Vigo'	Class 7 (Ghostbusters: TVG SV) Class 4 (IDW+Insight)	0.000000	0.013942
+b'https://gilmoregirls.fandom.com/wiki/Dragonfly_Inn'	214 Third Street/Oak Tree Lane/Sores and Boils Alley, Stars Hollow, Connecticut	0.000000	0.004378
+b'https://gintama.fandom.com/wiki/Kagura'	Luci Christian (Movie) Jocelyne Loewen (Gintama°) Scott McNeil (Dekobokko arc)	0.000000	0.011660
+b'https://girlmeetsworld.fandom.com/wiki/Girl_Meets_Home_for_the_Holidays'	Girl Meets Game Night	0.000000	0.015190
+b'https://glee.fandom.com/wiki/Artie_Abrams'	Kevin McHale Naya Rivera (Tina's Dream)	0.000000	0.007132
+b'https://godfather.fandom.com/wiki/Vincenzo_Pentangeli'	Salvatore Po Ralph Peduto (voice)	0.000000	0.004850
+b'https://godofwar.fandom.com/wiki/Aphrodite'	God of War God of War III	0.000000	0.030530
+b'https://godzilla.fandom.com/wiki/Mechagodzilla_(GXMG)'	Godzilla: Tokyo S.O.S.	0.000000	0.015466
+b'https://goosebumps.fandom.com/wiki/Scream_of_the_Evil_Genie'	The Creepy Creations of Professor Shock	0.000000	0.012241
+b'https://gossipgirl.fandom.com/wiki/Blair%E2%80%93Nate_relationship'	Close Friends	0.000000	0.090780
+b'https://gotham.fandom.com/wiki/Ecco'	Francesca Root-Dodson	0.000000	0.004601
+b'https://gravityfalls.fandom.com/wiki/Literacy'	Other People's Mouths	0.000000	0.178260
+b'https://greenlantern.fandom.com/wiki/Yellow_Impurity'	Green Lantern Corps	0.000000	0.010425
+b'https://greys.fandom.com/wiki/Grey%27s_Anatomy,_Season_6'	September 14, 2010	0.000000	0.003686
+b'https://greysanatomy.fandom.com/wiki/Denny_Duquette,_Jr.'	Jeffrey Dean Morgan	0.000000	0.003781
+b'https://grimm.fandom.com/wiki/Juliette_Silverton'	X	0.000000	0.005255
+b'https://growtopia.fandom.com/wiki/Snowy_Rocks'	#9E9E9E	#FFFFFF	0.000000	0.003788
+b'https://gta.fandom.com/wiki/Grand_Theft_Auto_2'	1999 or 2013	0.000000	0.004959
+b'https://gta.fandom.com/wiki/Insurgent'	Standard White - 100%	0.000000	0.008926
+b'https://guilty-gear.fandom.com/wiki/Faust'	Kaiji Tang	0.000000	0.015639
+b'https://gundam.fandom.com/wiki/Patrick_Zala'	PLANT Supreme Council Chairman	0.000000	0.979170
+b'https://gurrenlagann.fandom.com/wiki/Simon'	Seiyū/Voice Actor	1.000000	0.995802
+b'https://h2o.fandom.com/wiki/H2O:_Just_Add_Water'	http://h2o.zdfe-b2b.de/	0.000000	0.004142
+b'https://haikyuu.fandom.com/wiki/Y%C5%ABsuke_Takinoue'	Kyle Colby Jones	0.000000	0.004279
+b'https://half-life.fandom.com/wiki/Gordon_Freeman'	info_player_spawn (spawner) player	0.000000	0.729685
+b'https://half-life.fandom.com/wiki/Louis_Gossett_Jr.'	Actor Voice actor Director Writer Producer	0.000000	0.748201
+b'https://halloweenmovie.fandom.com/wiki/Michael_Myers%27_mask'	descriptoin	1.000000	0.852971
+b'https://halo.fandom.com/wiki/UNSC_Infinity'	CAPT Andrew Del Rio (2553-2557) CAPT Thomas Lasky (2557-Present)	0.000000	0.011215
+b'https://hannibal.fandom.com/wiki/Hannibal_Lecter'	Portrayed by	1.000000	0.996064
+b'https://harrypotter.fandom.com/wiki/Hermione_Granger'	Loyalty	1.000000	0.039502
+b'https://harvestmoon.fandom.com/wiki/Romana_(DS)'	AWL, AWLSE, AnWL, DS, Cute	0.000000	0.010566
+b'https://hawaiifiveo.fandom.com/wiki/Steve_McGarrett'	Alex O'Loughlin	0.000000	0.005035
+b'https://he-man.fandom.com/wiki/Skeletor'	Alan Oppenheimer Frank Langella Campbell Lane Brian Dobson	0.000000	0.004865
+b'https://hellboy.fandom.com/wiki/Frankenstein_Underground'	Frankenstein Underground	0.000000	0.016316
+b'https://hellokitty.fandom.com/wiki/Badtz-Maru'	1993	0.000000	0.004581
+b'https://hellsing.fandom.com/wiki/Alucard'	Torsten Münchow	0.000000	0.004416
+b'https://henrydanger.fandom.com/wiki/Cooper_Barnes'	Captain Man	0.000000	0.137527
+b'https://henrydanger.fandom.com/wiki/The_Rock_Box_Dump'	“Danger Games”	0.000000	0.079262
+b'https://heyarnold.fandom.com/wiki/Pigeon_Man_(episode)'	Olga Comes Home	0.000000	0.015876
+b'https://high-school-musical.fandom.com/wiki/Troy_Bolton'	Zac Efron	0.000000	0.011421
+b'https://highschooldxd.fandom.com/wiki/Senjutsu'	Kuroka Bikou Koneko Toujou Sun Wukong	0.000000	0.006797
+b'https://hollowknight.fandom.com/wiki/Bretta'	Dirtmouth Fungal Wastes	0.000000	0.007927
+b'https://homealone.fandom.com/wiki/Kevin_McCallister'	Home Alone Home Alone 2: Lost in New York	0.000000	0.006340
+b'https://horizonzerodawn.fandom.com/wiki/Aloy'	Portrayed by	1.000000	0.996064
+b'https://horror.fandom.com/wiki/Louis_Cypher'	Robert De Niro	0.000000	0.004205
+b'https://house.fandom.com/wiki/The_Greater_Good'	2/10	0.000000	0.003985
+b'https://houseki-no-kuni.fandom.com/wiki/Phosphophyllite'	Tomoyo Kurosawa	0.000000	0.004026
+b'https://houseofcards.fandom.com/wiki/Echo'	1 seasons, 2 episodes	0.000000	0.005717
+b'https://howtogetawaywithmurder.fandom.com/wiki/How_to_Get_Away_with_Murder'	75	0.000000	0.003830
+b'https://howtotrainyourdragon.fandom.com/wiki/Toothless_(Franchise)'	How to Train Your Dragon: The Hidden World	0.000000	0.005910
+b'https://hunterxhunter.fandom.com/wiki/Benjamin_Hui_Guo_Rou'	Benjamin Baton Air Blow (Inherited) Secret Window (Inherited) Culdcept (Inherited)	0.000000	0.011701
+b'https://icarly.fandom.com/wiki/ICan%27t_Take_It'	"iLove You"	0.000000	0.048772
+b'https://iceage.fandom.com/wiki/Scrat'	Chris Wedge	0.000000	0.004804
+b'https://idleheroes.fandom.com/wiki/Emily'	Acquired through	1.000000	0.996281
+b'https://injustice.fandom.com/wiki/Wonder_Woman'	Injustice: Gods Among Us Injustice 2	0.000000	0.006024
+b'https://insidious.fandom.com/wiki/Lipstick-Face_Demon'	Insidious	0.000000	0.176238
+b'https://inuyasha.fandom.com/wiki/Inuyasha'	Richard Ian Cox	0.000000	0.996510
+b'https://ironman.fandom.com/wiki/J.A.R.V.I.S.'	Paul Bettany	0.000000	0.004452
+b'https://itsalwayssunny.fandom.com/wiki/Country_Mac'	"Mac Day"	0.000000	0.021766
+b'https://jakanddaxter.fandom.com/wiki/Precursor_orb'	Precursors	0.000000	0.996376
+b'https://james-camerons-avatar.fandom.com/wiki/Conrad_Olson'	James Cameron's Avatar: The Game Wii/PSP	0.000000	0.004661
+b'https://james-camerons-avatar.fandom.com/wiki/Pandora'	0.9 atm	0.000000	0.004017
+b'https://jamesbond.fandom.com/wiki/Die_Another_Day_(film)'	Casino Royale (film)	0.000000	0.005485
+b'https://jamescameronstitanic.fandom.com/wiki/Jack_Dawson'	Leonardo DiCaprio	0.000000	0.004256
+b'https://janethevirgin.fandom.com/wiki/Mateo_Solano_Villanueva'	1 of 18 Season 5	0.000000	0.006277
+b'https://jessie.fandom.com/wiki/The_Blind_Date,_the_Cheapskate_and_the_Primate'	Lizard Scales and Wrestling Tales	0.000000	0.009707
+b'https://jimmyneutron.fandom.com/wiki/Pain,_Pain,_Go_Away!'	Ultralord vs. the Squirrels	0.000000	0.010656
+b'https://jojo.fandom.com/wiki/JoJo%27s_Bizarre_Adventure:_Golden_Wind'	N/A	0.000000	0.063753
+b'https://joke-battles.fandom.com/wiki/SCP-348'	Notable Attacks/Techniques	1.000000	0.994599
+b'https://jurassicpark.fandom.com/wiki/Jurassic_World:_Fallen_Kingdom'	English	0.000000	0.020844
+b'https://justcause.fandom.com/wiki/Rico_Rodriguez'	Alive	0.000000	0.510916
+b'https://justdance.fandom.com/wiki/Can%E2%80%99t_Get_You_Out_of_My_Head'	Julia Spiesser	0.000000	0.004181
+b'https://kamenrider.fandom.com/wiki/Kamen_Rider_Build'	Kamen Rider Zi-O	0.000000	0.008770
+b'https://kekkai-sensen.fandom.com/wiki/Hello,_World!'	April 22, 2015	0.000000	0.003734
+b'https://kill-la-kill.fandom.com/wiki/Nonon_Jakuzure'	Ragyō Kiryūin Nui Harime Rei Hōōmaru	0.000000	0.008085
+b'https://kirby.fandom.com/wiki/Queen_Sectonia'	Makiko Ohmoto	0.000000	0.004214
+b'https://koei.fandom.com/wiki/%C5%8Cka'	Toukiden: The Age of Demons	0.000000	0.005466
+b'https://konosuba.fandom.com/wiki/Megumin'	Erica Mendez	0.000000	0.005141
+b'https://kungfupanda.fandom.com/wiki/Hall_of_Warriors'	Kung Fu Panda	0.000000	0.006821
+b'https://kurokonobasuke.fandom.com/wiki/Tetsuya_Kuroko'	Talent	1.000000	0.996039
+b'https://kuroshitsuji.fandom.com/wiki/Demon'	Sebastian Michaelis	0.000000	0.004744
+b'https://landbeforetime.fandom.com/wiki/Loofah_and_Doofah'	The Land Before Time XIII: The Wisdom of Friends	0.000000	0.007511
+b'https://lanoire.fandom.com/wiki/Elsa_Lichtmann'	Erika Heynatz Claudia Brucken (Songs)	0.000000	0.015074
+b'https://last-day-on-earth-survival.fandom.com/wiki/Crooked_Creek_Farm'	28m 47s	0.000000	0.003690
+b'https://leagueoflegends.fandom.com/wiki/Aatrox'	345	0.000000	0.003910
+b'https://left4dead.fandom.com/wiki/Left_4_Dead_2'	Co-operative Online Survival horror First-person shooter	0.000000	0.031578
+b'https://lego.fandom.com/wiki/75093_Death_Star_Final_Duel'	Star Wars Star Wars Episode VI: Return of the Jedi	0.000000	0.004359
+b'https://life-is-strange.fandom.com/wiki/Life_is_Strange'	PG16, ESRB-M, USK12, ACB-M, ClassInd-16, CERO-D	0.000000	0.006495
+b'https://liloandstitch.fandom.com/wiki/Lilo_%26_Stitch'	Followed by	1.000000	0.996110
+b'https://lionking.fandom.com/wiki/The_Lion_King'	The Lion King II: Simba's Pride	0.000000	0.005084
+b'https://looneytunes.fandom.com/wiki/Wile_E._Coyote'	Portrayed by	1.000000	0.996064
+b'https://love-live.fandom.com/wiki/Nico_Yazawa'	Erica Mendez	0.000000	0.005141
+b'https://lovecraft.fandom.com/wiki/Nyarlathotep'	H. P. Lovecraft	0.000000	0.004265
+b'https://lucifer.fandom.com/wiki/Azrael'	Two (mentioned) Three	0.000000	0.025231
+b'https://madagascar.fandom.com/wiki/King_Julien'	Voiced by	1.000000	0.993291
+b'https://madmax.fandom.com/wiki/Max_Rockatansky'	Appearances	1.000000	0.996459
+b'https://mafiagame.fandom.com/wiki/Bridge_Bombing_Zeppelin'	Black Metal	0.000000	0.005302
+b'https://magi.fandom.com/wiki/Solomon_Jehoahaz_Abraham'	Zi-cung Zyu	0.000000	0.023799
+b'https://maid-dragon.fandom.com/wiki/Tohru'	Yūki Kuwahara (Japanese) Sarah Wiedenheft (English)	0.000000	0.006604
+b'https://maplestory.fandom.com/wiki/MapleStory'	Windows	0.000000	0.045828
+b'https://mario.fandom.com/wiki/Pauline'	Mario (Friend / Former Love Interest) Donkey Kong (Friend)	0.000000	0.007743
+b'https://marvel-movies.fandom.com/wiki/Aaron_Davis_(Into_the_Spider-Verse)'	Mahershala Ali	0.000000	0.006197
+b'https://marvel.fandom.com/wiki/Multiverse'	Motion Picture Funnies Weekly #1 (April, 1939)	0.000000	0.005658
+b'https://marvelcinematicuniverse.fandom.com/wiki/Helicarrier'	Active	0.000000	0.071743
+b'https://mash.fandom.com/wiki/McLean_Stevenson'	Lt. Colonel Henry Blake	0.000000	0.005028
+b'https://matrix.fandom.com/wiki/Spoon_Boy'	The Oracle	0.000000	0.098466
+b'https://megaman.fandom.com/wiki/Junk_Golem'	Mega Man 3 Mega Man: The Wily Wars	0.000000	0.005084
+b'https://megamitensei.fandom.com/wiki/Persona_5'	Japan September 15, 2016 North America April 4, 2017 Europe April 4, 2017 South Korea June 8, 2017	0.000000	0.007937
+b'https://memory-beta.fandom.com/wiki/Iconian'	6 eyes	0.000000	0.067033
+b'https://merlin.fandom.com/wiki/Kilgharrah'	Appearances	0.000000	0.996459
+b'https://metroid.fandom.com/wiki/Shirogumi_Inc.'	http://shirogumi.com/	0.000000	0.005529
+b'https://mikumikudance.fandom.com/wiki/Gackpo_Camui_(Biyo)'	Nicovideo	0.000000	0.054302
+b'https://miraculousladybug.fandom.com/wiki/Adrien_Agreste'	Cat Noir's staff	0.000000	0.203494
+b'https://mlp.fandom.com/wiki/Magic_Duel'	Sleepless in Ponyville	0.000000	0.006839
+b'https://mlpfanart.fandom.com/wiki/Children_of_the_Night'	Music video, story animation	0.000000	0.347237
+b'https://modernfamily.fandom.com/wiki/Claire_Dunphy'	S1 - S2 - S3 - S4 - S5 - S6 - S7 - S8 - S9 - S10	0.000000	0.007664
+b'https://monopoly.fandom.com/wiki/Park_Place'	$1300.	0.000000	0.003890
+b'https://monstergirlencyclopedia.fandom.com/wiki/Dark_Angel'	kurobine.sakura.ne.jp - Dark Angel	0.000000	0.004086
+b'https://monsterhigh.fandom.com/wiki/Silvi_Timberwolf'	2016	0.000000	0.005273
+b'https://monsterhunter.fandom.com/wiki/EX_Rathalos_Armor_(Gunner)_(MH4U)'	ハンター生活, 装填数UP, スタミナ回復遅延	0.000000	0.984026
+b'https://mortalkombat.fandom.com/wiki/Skarlet'	Dana Lyn Baron (MK 2011)	0.000000	0.005187
+b'https://movies.fandom.com/wiki/Handsome_Devil'	$129,391	0.000000	0.003787
+b'https://mrrobot.fandom.com/wiki/Joanna_Wellick'	Stephanie Corneliussen	0.000000	0.004636
+b'https://mugen.fandom.com/wiki/Guts'	Berserk	0.000000	0.781402
+b'https://mysingingmonsters.fandom.com/wiki/Bona-Petite'	1	0.000000	0.004098
+b'https://mystic-messenger.fandom.com/wiki/Jumin_Han'	Chairman Han (Father) Mother Step-Mother Unidentified Sibling(s) MC (Wife; determined)	0.000000	0.093827
+b'https://nanatsu-no-taizai.fandom.com/wiki/Diane'	Erica Mendez	0.000000	0.005141
+b'https://narnia.fandom.com/wiki/C._S._Lewis'	Human	0.000000	0.134232
+b'https://naruto.fandom.com/wiki/Naruto_Uzumaki'	Tools	1.000000	0.995482
+b'https://narutofanon.fandom.com/wiki/Blue_Flame_Art:_Dazzling_Phoenix_Consumption'	Yoru Uchiha	0.000000	0.005902
+b'https://ncis.fandom.com/wiki/Eleanor_Bishop'	n/a- series regular.	0.000000	0.062378
+b'https://nerf.fandom.com/wiki/Swarmfire'	30 feet (orange trigger) 9 meters (orange trigger) 50 feet (blue trigger) 15.2 meters (blue trigger)	0.000000	0.005125
+b'https://newgirl.fandom.com/wiki/Jess_Day'	146	0.000000	0.003718
+b'https://nickelodeon.fandom.com/wiki/The_Wild_Thornberrys'	September 1, 1998 - June 11, 2004	0.000000	0.004097
+b'https://nier.fandom.com/wiki/NieR:Automata'	TBA	0.000000	0.092416
+b'https://nightmareonelmstreet.fandom.com/wiki/Alice_Johnson'	Lisa Wilcox	0.000000	0.005935
+b'https://nightmareonelmstreet.fandom.com/wiki/Glen_Lantz'	Johnny Depp	0.000000	0.004165
+b'https://ninjago.fandom.com/wiki/Ninjago_Second_2019_Installment'	TBA	0.000000	0.092416
+b'https://nintendo.fandom.com/wiki/Virtual_Boy'	Nintendo 64 (1996)	0.000000	0.004998
+b'https://no-game-no-life.fandom.com/wiki/Fl%C3%BCgel'	Jibril Azriel (Representative) Raphael	0.000000	0.005484
+b'https://noragami.fandom.com/wiki/Kuraha'	Greg Dulcie	0.000000	0.004437
+b'https://okami.fandom.com/wiki/Amaterasu'	Ōkami Ōkamiden	0.000000	0.006355
+b'https://oldschoolrunescape.fandom.com/wiki/Leather_vambraces'	Better than no armour!	0.000000	0.054645
+b'https://onceuponatime.fandom.com/wiki/Forget_Me_Not'	GALLERY TRANSCRIPT	0.000000	0.765778
+b'https://onceuponatimeabc.fandom.com/wiki/Snow_White'	S1 - S2 - S3 - OW - S4 - S5 - S6 - S7	0.000000	0.006887
+b'https://onetreehill.fandom.com/wiki/Season_5'	Credited Cast	1.000000	0.995197
+b'https://orange-is-the-new-black.fandom.com/wiki/Poussey_Washington'	Flashbacks	1.000000	0.976870
+b'https://orphanblack.fandom.com/wiki/Kevin_Hanchard'	20	0.000000	0.003925
+b'https://ouran.fandom.com/wiki/Haruhi_Fujioka'	Haruna Kawaguchi (Dorama)	0.000000	0.004217
+b'https://outlander.fandom.com/wiki/Jamie_Fraser'	1 • 2 • 3 • 4 • 5	0.000000	0.005829
+b'https://overlordmaruyama.fandom.com/wiki/Green_Claw'	Overlord II Episode 1	0.000000	0.010037
+b'https://owarinoseraph.fandom.com/wiki/Angels'	Chapter 32	0.000000	0.036844
+b'https://parksandrecreation.fandom.com/wiki/Shauna_Malwae-Tweep'	Pawnee, Indiana	0.000000	0.003963
+b'https://paw-patrol.fandom.com/wiki/Chase'	Voice Actors	1.000000	0.986046
+b'https://payday.fandom.com/wiki/John_Wick'	English Russian Italian Sign language	0.000000	0.337360
+b'https://peaky-blinders.fandom.com/wiki/Darby_Sabini'	Noah Taylor	0.000000	0.004974
+b'https://penny-dreadful.fandom.com/wiki/Joan_Clayton'	The Nightcomers	0.000000	0.005292
+b'https://phineasandferb.fandom.com/wiki/Phineas_Flynn'	Vincent Martella Danny Jacob (singing, occasionally) Robert F. Hughes (as an old man)	0.000000	0.009351
+b'https://pirates.fandom.com/wiki/Jack_Sparrow'	Portrayer	1.000000	0.901284
+b'https://pitch-perfect.fandom.com/wiki/Lilly_Onakuramara'	Hana Mae Lee	0.000000	0.006971
+b'https://planetoftheapes.fandom.com/wiki/Simian_Flu_Pandemic'	War for the Planet of the Apes	0.000000	0.010887
+b'https://plantsvszombies.fandom.com/wiki/Citron_(PvZ:_GW2)'	None	0.000000	0.383183
+b'https://pokemon.fandom.com/wiki/Clay_Tunnel'	V	0.000000	0.004570
+b'https://pokemon.fandom.com/wiki/Vulpix'	Play sound	0.000000	0.995894
+b'https://popeye.fandom.com/wiki/Popeye'	Portrayed by	1.000000	0.996064
+b'https://powerlisting.fandom.com/wiki/Poison_Immunity'	Be immune to poisons.	0.000000	0.741419
+b'https://powerrangers.fandom.com/wiki/Megazord'	Tony Oliver (Computerized voice)	0.000000	0.008211
+b'https://prettycure.fandom.com/wiki/SmPC36'	SmPC37	0.000000	0.003813
+b'https://prettylittleliars.fandom.com/wiki/A'	Janel Parrish	0.000000	0.004346
+b'https://prisonbreak.fandom.com/wiki/Gretchen_Morgan'	Jodi Lyn O'Keefe	0.000000	0.005599
+b'https://project-pokemon.fandom.com/wiki/Randomizer'	-	0.000000	0.113868
+b'https://psychusa.fandom.com/wiki/Shawn_Spencer'	Psych: The Movie	0.000000	0.006028
+b'https://rainbowsix.fandom.com/wiki/Ranked'	Rainbow vs Rainbow	0.000000	0.016020
+b'https://reborn.fandom.com/wiki/Six_Paths_of_Reincarnation'	Episode 20	0.000000	0.103215
+b'https://reddead.fandom.com/wiki/Sadie_Adler'	Bob (1899) Hera (1907)	0.000000	0.006019
+b'https://regularshow.fandom.com/wiki/Mordecai'	"A Regular Epic Final Battle (final)"	0.000000	0.029330
+b'https://reign-cw.fandom.com/wiki/Henry_and_Catherine'	Alan van Sprang and Megan Follows	0.000000	0.004559
+b'https://reign.fandom.com/wiki/King_Philip'	Jordan Lee	0.000000	0.004981
+b'https://residentevil.fandom.com/wiki/Licker'	Natural mutation Marketable B.O.W.	0.000000	0.572568
+b'https://rezero.fandom.com/wiki/Ferris'	Sarah Anne Williams	0.000000	0.003975
+b'https://rickandmorty.fandom.com/wiki/Mr._Meeseeks'	Meeseeks and Destroy	0.000000	0.030244
+b'https://riseoftheguardians.fandom.com/wiki/Rise_of_the_Guardians'	$294,739,789	0.000000	0.003798
+b'https://riverdale.fandom.com/wiki/Chilling_Adventures_of_Sabrina'	1, 2, 3, 4	0.000000	0.004095
+b'https://rj-palacios-wonder.fandom.com/wiki/Daisy'	Wonder	0.000000	0.227407
+b'https://roosterteeth.fandom.com/wiki/Ashley_Dillard'	@ashl3dee	0.000000	0.005204
+b'https://rr3.fandom.com/wiki/Ferrari_LaFerrari_(Exclusive_Series)'	R$6,612,700 +2,075	0.000000	0.004177
+b'https://rugrats.fandom.com/wiki/The_Inside_Story'	A Visit From Lipschitz	0.000000	0.009575
+b'https://runescape.fandom.com/wiki/Araxxor'	2458	0.000000	0.003620
+b'https://rust.fandom.com/wiki/Sleeping_Bag'	30 s	0.000000	0.003849
+b'https://rwby.fandom.com/wiki/Winter%27s_Weapon'	Sword	0.000000	0.963938
+b'https://sailormoon.fandom.com/wiki/Sailor_Moon_Sailor_Stars'	Season Chronology	1.000000	0.996238
+b'https://saintseiya.fandom.com/wiki/Andromeda_Shun'	Voiced by	1.000000	0.993291
+b'https://saintsrow.fandom.com/wiki/Sledgehammer'	Saints Row 2	0.000000	0.004834
+b'https://sawfilms.fandom.com/wiki/Peter_Spierig'	Active	0.000000	0.071743
+b'https://scoobydoo.fandom.com/wiki/Party_Frankenstein'	TNSDMysteries: A Halloween Hassle at Dracula's Castle	0.000000	0.011733
+b'https://scream-queens.fandom.com/wiki/Green_Meanie'	Riley Schmidt (stunt) Taylor Lautner Oliver Hudson Kirstie Alley	0.000000	0.005687
+b'https://scream.fandom.com/wiki/Gale_Riley'	Alive	0.000000	0.510916
+b'https://scrubs.fandom.com/wiki/Ted_Buckland'	"A One Story Town"	0.000000	0.018601
+b'https://seinfeld.fandom.com/wiki/Newman'	Larry David (Voice in The Revenge) Wayne Knight (On-screen Appearances)	0.000000	0.010284
+b'https://senrankagura.fandom.com/wiki/Yumi'	Cataclysmic Force	0.000000	0.942143
+b'https://shadowhunters.fandom.com/wiki/Runes'	Angels Demons	0.000000	0.017855
+b'https://shadowofwar.fandom.com/wiki/Celebrimbor'	Middle-earth: Shadow of Mordor Middle-earth: Shadow of War	0.000000	0.007984
+b'https://shameless.fandom.com/wiki/Mandy_Milkovich'	Blue	0.000000	0.049263
+b'https://shannara.fandom.com/wiki/Leah'	The Sword of Shannara	0.000000	0.008046
+b'https://shipping.fandom.com/wiki/RivaMika'	Rivamika, Rikasa	0.000000	0.004058
+b'https://shokugekinosoma.fandom.com/wiki/San_no_Sara_Original_Soundtrack_1'	San no Sara Original Soundtrack 2	0.000000	0.005998
+b'https://shopkins.fandom.com/wiki/D%27lish_Donut'	Glitter, Bling, Classic, Translucent, Metallic, Squishy	0.000000	0.005829
+b'https://silenthill.fandom.com/wiki/Dahlia_Gillespie'	Liz Mamorsky (Silent Hill) Laurence Bouvard (Origins)	0.000000	0.006816
+b'https://simpsons.fandom.com/wiki/Marge_Simpson'	Julie Kavner	0.000000	0.005872
+b'https://simpsonstappedout.fandom.com/wiki/Frink%27s_Special_Offer'	$9.99	0.000000	0.003881
+b'https://sims.fandom.com/wiki/Laganaphyllis_simnovorii'	3x3[TS2:U], 2x3[Store], 2x5[TS4]	0.000000	0.004375
+b'https://skam.fandom.com/wiki/WtFOCK'	October 6, 2018 - present	0.000000	0.005930
+b'https://skylanders.fandom.com/wiki/Kaos'	Richard Steven Horvitz	0.000000	0.003832
+b'https://sml.fandom.com/wiki/Rosalina'	Elaina Keyes	0.000000	0.004504
+b'https://smosh.fandom.com/wiki/Ericka_Bozeman'	bozey bozington	0.000000	0.009876
+b'https://smurfs.fandom.com/wiki/Sassette_Smurfling'	Κοτσιδούλα	0.000000	0.019097
+b'https://snk.fandom.com/wiki/SNK_Heroines_Tag_Team_Frenzy'	—	0.000000	0.922243
+b'https://sonic.fandom.com/wiki/Snively_Robotnik'	Genius-level intellect Excellent piloting skills	0.000000	0.702504
+b'https://sopranos.fandom.com/wiki/Christopher_Moltisanti'	83	0.000000	0.003881
+b'https://souleater.fandom.com/wiki/Baba_Yaga_Castle'	Episode 27	0.000000	0.047115
+b'https://soyluna.fandom.com/wiki/Karol_Sevilla'	Luna Valente	0.000000	0.009606
+b'https://spartacus.fandom.com/wiki/Gannicus'	Dustin Clare	0.000000	0.005086
+b'https://spiderman.fandom.com/wiki/Peter_Parker_(Earth-94)'	{{{18}}}	0.000000	0.008557
+b'https://spongebob.fandom.com/wiki/SpongeBob_SquarePants_(character)'	Tom Kenny	0.000000	0.004383
+b'https://stardewvalley.fandom.com/wiki/Leah'	Goat Cheese Poppyseed Muffin Salad Stir Fry Truffle Vegetable Medley Wine	0.000000	0.027732
+b'https://starvstheforcesofevil.fandom.com/wiki/Janna_Ordonia'	"You guys want to see a dead possum?" ("Mewberty")	0.000000	0.009326
+b'https://starwarsrebels.fandom.com/wiki/Stormtrooper'	Galactic Empire Imperial Military Imperial Army Stormtrooper Corps	0.000000	0.014518
+b'https://steamtradingcards.fandom.com/wiki/The_Talos_Principle_-_Jammer'	Wield these, the instruments of our power, to fulfill your purpose and achieve eternal life.	0.000000	0.093420
+b'https://stephenking.fandom.com/wiki/Castle_Rock_(TV_Series)'	July 25, 2018	0.000000	0.003712
+b'https://steven-universe.fandom.com/wiki/Steven_Universe_(character)'	Zach Callison	0.000000	0.004106
+b'https://strangerthings.fandom.com/wiki/The_Upside_Down'	The Demogorgon The Mind Flayer Demogorgon (species) Library Tendril	0.000000	0.023767
+b'https://streetfighter.fandom.com/wiki/Chun-Li'	Ming-Na (Street Fighter) Kristin Kreuk (Street Fighter: The Legend of Chun-Li)	0.000000	0.007291
+b'https://subnautica.fandom.com/wiki/Sea_Emperor_Leviathan_(Babies)'	seaemperorbaby	0.000000	0.011960
+b'https://suitelife.fandom.com/wiki/Nia_Moseby'	Benchwarmers (TSLOZAC)	0.000000	0.018399
+b'https://suits.fandom.com/wiki/Mike_Ross'	"Good-Bye"	0.000000	0.033744
+b'https://summonerswar.fandom.com/wiki/Harpy_(Dark)_-_Hellea'	104	0.000000	0.003817
+b'https://superman.fandom.com/wiki/Martha_and_Jonathan_Kent'	Clark Kent	0.000000	0.005549
+b'https://supernatural.fandom.com/wiki/The_Darkness'	Emily Swallow (adult) Gracyn Shinyei (child) Yasmeene Ball (preteen) Samantha Isler (teenager)	0.000000	0.012073
+b'https://supersmashbros.fandom.com/wiki/Corrin_(Super_Smash_Bros._Ultimate)'	♂: Cam Clarke ♀: Marcella Lentz-Pope	0.000000	0.006530
+b'https://survivor.fandom.com/wiki/Survivor:_One_World'	Philippines	0.000000	0.004764
+b'https://swordartonline.fandom.com/wiki/Alicization_Arc'	Unital Ring	0.000000	0.994372
+b'https://swordburst2.fandom.com/wiki/Suspension'	A unique blade, said to be so sharp the user could cut themselves without intent.	0.000000	0.828680
+b'https://swtor.fandom.com/wiki/Miraluka'	Galactic Republic	0.000000	0.025968
+b'https://tardis.fandom.com/wiki/Dinosaurs_on_a_Spaceship_(TV_story)'	A Town Called Mercy	0.000000	0.012858
+b'https://teen-titans-go.fandom.com/wiki/Friendship'	Vegetables	0.000000	0.249216
+b'https://teen-wolf-pack.fandom.com/wiki/Holland_Roden'	5'3" (1.60m)	0.000000	0.003839
+b'https://teentitans.fandom.com/wiki/Beast_Boy'	Whatever his current form provides him (teeth, claws, horns, tusks etc.)	0.000000	0.278502
+b'https://teenwolf.fandom.com/wiki/Kate_Argent'	The Wolves of War	0.000000	0.018536
+b'https://tekken.fandom.com/wiki/Katsuhiro_Harada'	Tekken Tag Tournament 2 (cameo) Soul Calibur V (cameo)	0.000000	0.010311
+b'https://terraria.fandom.com/wiki/Demonic_Hellfish'	No Value	0.000000	0.991335
+b'https://that70sshow.fandom.com/wiki/Jackie_and_Hyde'	Pivotal episodes	1.000000	0.996333
+b'https://the-blacklist.fandom.com/wiki/Constantin_Rostov'	Ulrich Thomsen	0.000000	0.004182
+b'https://the-next-step.fandom.com/wiki/Richelle'	Briar Nolet	0.000000	0.008682
+b'https://theamazingworldofgumball.fandom.com/wiki/The_DVD'	"The Responsible"	0.000000	0.031326
+b'https://thechallenge.fandom.com/wiki/The_Real_World:_Philadelphia'	$210,832	0.000000	0.003813
+b'https://theevilwithin.fandom.com/wiki/The_Evil_Within'	BluRay Disc, Optical disc, Digital Download	0.000000	0.006186
+b'https://theflash.fandom.com/wiki/Plunder'	Stephen Huszar	0.000000	0.004285
+b'https://thefosters.fandom.com/wiki/Jesus_Adams_Foster'	Noah Centineo (Current) Jake T. Austin (Seasons 1–2) Luke Stockalper (Young Jesus)	0.000000	0.010257
+b'https://thegifted.fandom.com/wiki/Jermaine_Rivers'	Shatter	0.000000	0.736654
+b'https://thehungergames.fandom.com/wiki/74th_Hunger_Games'	75th Hunger Games (The 3rd Quarter Quell)	0.000000	0.005037
+b'https://thelastofus.fandom.com/wiki/The_Last_of_Us:_Left_Behind'	Gamepad	0.000000	0.990764
+b'https://theloudhouse.fandom.com/wiki/Home_of_the_Fave'	"Hero Today, Gone Tomorrow"	0.000000	0.015358
+b'https://themagicians.fandom.com/wiki/Marina_Andrieski'	Kacey Rohl	0.000000	0.007564
+b'https://thementalist.fandom.com/wiki/Teresa_Lisbon'	Greg Tayback (ex-fiancé) Marcus Pike (ex-fiancé) Walter Mashburn (one-night-stand)	0.000000	0.011105
+b'https://theoffice.fandom.com/wiki/Jim_Halpert'	John Krasinski	0.000000	0.003761
+b'https://theoutsiders.fandom.com/wiki/Sodapop_Curtis'	Rob Lowe (film) Rodney Harvey (TV series)	0.000000	0.005406
+b'https://thethundermans.fandom.com/wiki/Phoebe_Thunderman'	Kira Kosarin	0.000000	0.008800
+b'https://theultimatesidemen.fandom.com/wiki/Behzinga'	2012–present	0.000000	0.105026
+b'https://toarumajutsunoindex.fandom.com/wiki/Toaru_Majutsu_no_Index_(anime)'	48 (Two seasons total)	0.000000	0.003989
+b'https://tokyoghoul.fandom.com/wiki/Ayato_Kirishima'	Todd Haberkorn Terri Doty (young)	0.000000	0.007953
+b'https://tomandjerry.fandom.com/wiki/Mammy_Two_Shoes'	Unknown	0.000000	0.803293
+b'https://tombraider.fandom.com/wiki/Lara_Croft'	Various	0.000000	0.036841
+b'https://totaldrama.fandom.com/wiki/Eva'	Julia Chantrey	0.000000	0.004792
+b'https://touken-ranbu.fandom.com/wiki/Shokudaikiri_Mitsutada'	03:00:00 (Recipe)	0.000000	0.003906
+b'https://transformers.fandom.com/wiki/Optimus_Prime_(Tyran)'	Knight of Iacon Leader of the Autobots	0.000000	0.025813
+b'https://trueblood.fandom.com/wiki/Lafayette_Reynolds'	{{{Actress}}}	0.000000	0.538690
+b'https://ttte.fandom.com/wiki/Diesel_10'	Sir Topham Hatt (CAE! onwards)	0.000000	0.006259
+b'https://turtlepedia.fandom.com/wiki/Mouser_(Mirage)'	[Source]	0.000000	0.045428
+b'https://twilightsaga.fandom.com/wiki/Edward_Cullen'	Olympic coven Black pack Uley pack Denali coven	0.000000	0.020881
+b'https://twinpeaks.fandom.com/wiki/Red_room'	Inhabitant(s)	1.000000	0.996547
+b'https://twohalfmen.fandom.com/wiki/Alan_Harper'	S1 - S2 - S3 - S4 - S5 - S6 - S7 - S8 S9 - S10 - S11 - S12	0.000000	0.008887
+b'https://typemoon.fandom.com/wiki/Assassin_of_Black'	Knives, Black Scalpel	0.000000	0.008133
+b'https://ultra.fandom.com/wiki/Ultraman_Tiga_(Superior_Universe)'	Alternate Ultra Brothers	0.000000	0.052864
+b'https://uncharted.fandom.com/wiki/Uncharted_2:_Among_Thieves'	Gamepad	0.000000	0.990764
+b'https://undertale.fandom.com/wiki/Undyne'	Plead, Challenge (Normal) Check, Fake Hit (Faux)	0.000000	0.070329
+b'https://until-dawn.fandom.com/wiki/Until_Dawn:_Rush_of_Blood'	Playstation VR	0.000000	0.011435
+b'https://unturned.fandom.com/wiki/Chef_Hat'	Cooking uniform hat.	0.000000	0.984765
+b'https://vampirediaries.fandom.com/wiki/Salvatore_Boarding_House'	Caroline Forbes (Donation from Damon Salvatore) Salvatore Family (Formerly)	0.000000	0.015936
+b'https://vanhelsing-syfy.fandom.com/wiki/Sam'	Birth Ritual	0.000000	0.949613
+b'https://victorious.fandom.com/wiki/Victoria_Justice'	2003 - present	0.000000	0.032808
+b'https://vikings.fandom.com/wiki/Ivar'	46	0.000000	0.003819
+b'https://villains.fandom.com/wiki/Blue_Meanies'	Monstrous Kidnappers	0.000000	0.008849
+b'https://voltron.fandom.com/wiki/Matthew_Holt'	Blake Anderson	0.000000	0.004277
+b'https://walkingdead.fandom.com/wiki/A_New_Day_(Video_Game)'	Also Starring	1.000000	0.992688
+b'https://warriors.fandom.com/wiki/Dovewing'	Living	1.000000	0.982659
+b'https://watchmen.fandom.com/wiki/Jon_Osterman'	Billy Crudup	0.000000	0.004793
+b'https://webarebears.fandom.com/wiki/The_Bears'	Voice Actor	1.000000	0.995071
+b'https://westwing.fandom.com/wiki/The_Hubbert_Peak'	"The Dover Test"	0.000000	0.014227
+b'https://whitewolf.fandom.com/wiki/Maleficence'	None	0.000000	0.383183
+b'https://wiggles.fandom.com/wiki/Greg_Page'	1991-2006, 2012-2013	0.000000	0.004489
+b'https://winx.fandom.com/wiki/Roxy'	Gallery	1.000000	0.950565
+b'https://witcher.fandom.com/wiki/The_Witcher_3:_Wild_Hunt'	See System Requirements section.	0.000000	0.739842
+b'https://wolfenstein.fandom.com/wiki/Wilhelm_Strasse_(disambig)'	Appearance(s)	1.000000	0.996453
+b'https://wot.fandom.com/wiki/Rand_al%27Thor'	King	0.000000	0.169484
+b'https://wowwiki.fandom.com/wiki/Jenny_Larson'	Lunarfall Garrison	0.000000	0.011878
+b'https://x-files.fandom.com/wiki/Cigarette_Smoking_Man'	William B. Davis (44 episodes) Chris Owens (2 episodes) Craig Warkentin (1 episode) Jeremy Schuetze	0.000000	0.007033
+b'https://xcom.fandom.com/wiki/W.A.R._Suit'	Shieldwall	0.000000	0.037307
+b'https://xenoblade.fandom.com/wiki/Lora'	Xenoblade Chronicles 2 Torna ~ The Golden Country	0.000000	0.008224
+b'https://xmenmovies.fandom.com/wiki/Deadpool_2'	Dark Phoenix	0.000000	0.007792
+b'https://yandere-simulator.fandom.com/wiki/Saki_Miyu'	Cait Myers/Mom0ki	0.000000	0.004888
+b'https://yogscast.fandom.com/wiki/Brent_Copeland'	Eric Fullerton	0.000000	0.004097
+b'https://yokaiwatch.fandom.com/wiki/Lil_Kappa'	770	0.000000	0.003801
+b'https://youngjustice.fandom.com/wiki/Brucely'	"Salvage"	0.000000	0.063298
+b'https://youtube.fandom.com/wiki/GlaceYeon'	FNAF MAP It's Time To Die - Part 6 - TJ Animations	0.000000	0.008205
+b'https://youtubepoop.fandom.com/wiki/Spengbab'	The Weegee Family	0.000000	0.006289
+b'https://yugioh.fandom.com/wiki/Lunalight_Sabre_Dancer'	Unlimited	0.000000	0.137438
+b'https://yurionice.fandom.com/wiki/Jean-Jacques_Leroy'	Jeremy Inman	0.000000	0.005643
+b'https://yuyuhakusho.fandom.com/wiki/Mukuro'	Upper S-Class	0.000000	0.361014
+b'https://zelda.fandom.com/wiki/Mirror_Shield'	Twinrova ReDead Floormaster Dark ChuChu Igos' Servants Igos du Ikana Majora's Mask Poes Jalhalla	0.000000	0.020969

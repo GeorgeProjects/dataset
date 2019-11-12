@@ -1,0 +1,306 @@
+key, text, label, prediction
+b'http://adsabs.harvard.edu/abs/2008AGUFM.B41A0366N'	2008AGUFM.B41A0366N	0.000000	0.003883
+b'http://cinematreasures.org/theaters/37920'	Box Office: 209.664.3623	0.000000	0.005544
+b'http://collections.artsmia.org/art/1275/madonna-and-child-giovanni-battista-cima-da-conegliano'	Click here to see the machine readable JSON data that underpins this page.	0.000000	0.048600
+b'http://collections.vam.ac.uk/item/O143333/pyjama-dress-pucci-emilio/'	In Storage	0.000000	0.995621
+b'http://dapo.dikdasmen.kemdikbud.go.id/sekolah/6713DD97541B1485D6E9'	-	0.000000	0.113868
+b'http://data.ordnancesurvey.co.uk/id/7000000000003080'	3080	0.000000	0.003713
+b'http://datazone.birdlife.org/species/factsheet/curlew-sandpiper-calidris-ferruginea'	Attributes	1.000000	0.996582
+b'http://espritbleu.franceolympique.com/espritbleu/athletes/0/giezendanner-133230.php'	CHAMONIX (74)	0.000000	0.005298
+b'http://filmindonesia.or.id/movie/title/lf-t016-19-622471_terimakasih-cinta'	Warna	0.000000	0.040730
+b'http://flora.org.il/plants/LATPSE/'	מדבר יהודה ליד נופי פרת	0.000000	0.012255
+b'http://memoriaglobo.globo.com/programas/entretenimento/novelas/gabriela-1-versao/galeria-de-personagens.htm'	135	0.000000	0.003855
+b'http://mosportshalloffame.com/inductees/corby-jones/'	University of Missouri	0.000000	0.005979
+b'http://negevgalil.org.il/settlments/%D7%A1%D7%A2%D7%93/'	762	0.000000	0.003675
+b'http://npb.jp/bis/players/31035119.html'	2003年ドラフト2巡目	0.000000	0.016548
+b'http://nymag.com/fashion/models/jhybholt/jakobhybholt/'	Benoni Loos, Adrian Bosch	0.000000	0.004022
+b'http://pizmonet.co.il/wiki/%D7%A9%D7%99%D7%A8_%D7%94%D7%91%D7%98%D7%9C%D7%A0%D7%99%D7%9D'	קובי אשרת	0.000000	0.033660
+b'http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC20677'	1.7	0.000000	0.004073
+b'http://reptile-database.reptarium.cz/species?genus=Gekko&species=smithii'	External links	1.000000	0.823697
+b'http://rugby.com.au/players/david-pocock'	55 Tests	0.000000	0.040184
+b'http://runners.worldofo.com/filiparodrigues.html'	Lisboa (POR)	0.000000	0.004007
+b'http://stadiumdb.com/stadiums/eng/villa_park'	Trinity Rd, Birmingham B6 6HE	0.000000	0.003822
+b'http://vhd.heritagecouncil.vic.gov.au/places/67952'	Parks, Gardens and Trees Residential buildings (private)	0.000000	0.053526
+b'http://www-history.mcs.st-andrews.ac.uk/Biographies/Zhu_Shijie.html'	about 1320 in Not known	0.000000	0.014734
+b'http://www.academia.org.br/academicos/ariano-suassuna'	23 de Julho de 2014	0.000000	0.003746
+b'http://www.adorocinema.com/filmes/filme-235341/'	EUA	0.000000	0.004508
+b'http://www.allocine.fr/film/fichefilm_gen_cfilm=240516.html'	Américain	0.000000	0.023792
+b'http://www.alternativateatral.com/obra51781-juegos-de-amor-y-de-guerra'	Adultos, Teatro, Artes Escénicas	0.000000	0.008813
+b'http://www.artcyclopedia.com/artists/veronese_paolo.html'	Italian artists	0.000000	0.259258
+b'http://www.beyazperde.com/filmler/film-198750/oyuncular/'	UIP Türkiye	0.000000	0.625763
+b'http://www.bfi.org.uk/films-tv-people/4ce2b6aa80f62'	Fiction	0.000000	0.275241
+b'http://www.bmdb.com.bd/movie/617/'	বাংলা	0.000000	0.261460
+b'http://www.catholic-hierarchy.org/diocese/dilig.html'	Philippines	0.000000	0.004764
+b'http://www.chemspider.com/Chemical-Structure.23338.html'	23338	0.000000	0.003651
+b'http://www.cinenacional.com/pelicula/dejala-correr'	Sonora	0.000000	0.004208
+b'http://www.elem.mx/autor/datos/1842'	Actividad y lengua	1.000000	0.996578
+b'http://www.espn.com/mlb/player/stats/_/id/1810/mike-maddux'	6-2, 185 lbs.	0.000000	0.004033
+b'http://www.espn.com/nba/player/_/id/589/mamadou-ndiaye'	0.9	0.000000	0.003800
+b'http://www.espn.com/nfl/player/stats/_/id/2985659/wil-lutz'	136	0.000000	0.003838
+b'http://www.espn.com/nhl/player/_/id/12/daniel-alfredsson'	--	0.000000	0.006414
+b'http://www.espncricinfo.com/ci/content/player/646181.html'	Ireland v Papua New Guinea at Townsville, Feb 9, 2016 scorecard	0.000000	0.025140
+b'http://www.espnfc.com/player/105368/rurik-gislason'	February 25, 1988	0.000000	0.003794
+b'http://www.eurohockey.com/club/366-pionniers-chamonix.html'	Nationalities	1.000000	0.996432
+b'http://www.european-athletics.org/athletes/group=a/athlete=130764-adeleke-rhasidat/index.html'	Tallaght A.C.	0.000000	0.006717
+b'http://www.film-documentaire.fr/4DACTION/w_fiche_film/4780_1'	Ardèche Images Production	0.000000	0.005005
+b'http://www.filmstarts.de/kritiken/142528.html'	USA	0.000000	0.004623
+b'http://www.filmstarts.de/personen/96287.html'	32 Jahre alt	0.000000	0.015404
+b'http://www.filmstarts.de/serien/9334.html'	USA	0.000000	0.004623
+b'http://www.floracatalana.net/acer-campestre-l-'	1111	0.000000	0.003830
+b'http://www.getty.edu/art/collection/artists/3092/anne-dixon-british-1799-1877/'	Ferring Vicarage, England	0.000000	0.003916
+b'http://www.getty.edu/art/collection/objects/99682/alfred-stieglitz-a-venetian-canal-american-negative-1894-print-1920s-1930s/'	Print	0.000000	0.796871
+b'http://www.historichotelsworldwide.com/hotels-resorts/hotel-napoleon-paris/'	Limo or Town Car service available may be arranged through the concierge; rates apply.	0.000000	0.366972
+b'http://www.hoophall.com/hall-of-famers/robert-hughes/'	Career Stats	1.000000	0.995481
+b'http://www.hoovers.com/company-information/cs/company-profile.preferred_credit_resources_limited.874122b0cc13a0c5.html'	Independent	0.000000	0.046282
+b'http://www.iafd.com/person.rme/perfid=charleychase/gender=f/charley-chase.htm'	Tongue; Nipples; Navel; Clit	0.000000	0.065112
+b'http://www.isfdb.org/cgi-bin/ea.cgi?257'	Author Tags	1.000000	0.996390
+b'http://www.jewage.org/wiki/ru/Profile:Okny_Ukraine'	Krasnye Okny Красные Окны Окны Okny	0.000000	0.010358
+b'http://www.legavolley.it/player/AGN-AND-83'	197 cm	0.000000	0.003621
+b'http://www.librarything.com/work/285137'	See the other authors section.	0.000000	0.440517
+b'http://www.lombardiabeniculturali.it/architetture/schede/LMD80-00078/'	Architetture del Gotico lombardo Quattro passi per Milano. Memorie di una città che cambia	0.000000	0.026628
+b'http://www.marinetraffic.com/en/ais/details/ports/682/Canada_port:VANCOUVER'	53	0.000000	0.003918
+b'http://www.marinetraffic.com/en/ais/details/ships/shipid:4848239/mmsi:249973000/imo:9760512/vessel:MSC_MERAVIGLIA'	20.2 / 19.3 knots	0.000000	0.004221
+b'http://www.museunacional.ufrj.br/dir/exposicoes/arqueologia/arqueologia-brasileira/arqbra014.html'	Descrição	1.000000	0.996581
+b'http://www.nationaltrustcollections.org.uk/object/486252'	486252	0.000000	0.003701
+b'http://www.nndb.com/people/267/000352208/'	FILMOGRAPHY AS ACTOR	1.000000	0.813145
+b'http://www.onlineworldofwrestling.com/bios/k/koji-kanemoto/'	RECENTLY UPDATED PAGES	1.000000	0.995166
+b'http://www.pietredellamemoria.it/pietre/lastra-alla-m-o-v-m-al-colonnello-valerio-gildoni-comando-compagnia-cc-thiene/'	Lastra in marmo di dimensioni 140x100 cm.	0.000000	0.047452
+b'http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327087-2'	Fruit a loculicidal capsule.	0.000000	0.697493
+b'http://www.profightdb.com/wrestlers/jordynne-grace-8297.html'	Jordynne Grace	0.000000	0.005121
+b'http://www.prsindia.org/mptrack/antoantony'	B.A.; Educated at St. Thomas College, Palai	0.000000	0.013085
+b'http://www.qedu.org.br/escola/138232-ee-professor-morais/sobre'	14	0.000000	0.003833
+b'http://www.reserves-naturelles.org/marais-les-trous-de-leu'	AUTRES RÉSERVES	1.000000	0.454537
+b'http://www.sensacine.com/peliculas/pelicula-29065/'	EE.UU.	0.000000	0.017194
+b'http://www.shanghairanking.com/world-university-rankings/york-university.html'	http://www.yorku.ca/	0.000000	0.004835
+b'http://www.tobunken.go.jp/materials/bukko/10041.html'	洋, 画家 (洋)	0.000000	0.033396
+b'http://www.tv.com/shows/the-carol-burnett-show/'	Nielsen Ratings: (Top 25 or better)	1.000000	0.994415
+b'http://www.wnba.com/player/ruth-riley/'	Notre Dame/US	0.000000	0.005314
+b'http://www.woodlandtrust.org.uk/visiting-woods/wood/4482/skipton-castle-woods/'	Explorer 2 OS Landranger 103	0.000000	0.004586
+b'http://www.worldrowing.com/athletes/athlete/47706/gutfleisch-lisa'	22 Mar 1999	0.000000	0.003707
+b'http://www.xgames.com/athletes/3015431/st%C3%A5le-sandbech'	06/03/93	0.000000	0.003763
+b'http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA767'	Consulter la déclaration d’intérêts et d’activités de M. Jacques Cattin	0.000000	0.133380
+b'https://afltables.com/afl/stats/players/M/Mark_LeCras.html'	162nd player to appear, 16th most games played, 3rd most goals kicked	0.000000	0.018721
+b'https://ameblo.jp/kinki-thuyo-love/entry-12424099003.html'	自己紹介	1.000000	0.996104
+b'https://animaldiversity.org/accounts/Laticauda_colubrina/'	injures humans bites or stings venomous	0.000000	0.151891
+b'https://archive.org/details/MiNombreEsKhan'	Internet Archive HTML5 Uploader 1.5.2	0.000000	0.009458
+b'https://art.rmngp.fr/fr/library/artworks/euxitheos_euphronios_cratere-en-calice-attique-a-figures-rouges-dit-cratere-d-antee_ceramique-materiau'	Athènes	0.000000	0.005471
+b'https://artuk.org/discover/artworks/sappho-205579'	Painting	0.000000	0.714658
+b'https://arxiv.org/abs/1812.08434'	Jie Zhou	0.000000	0.012818
+b'https://aur.archlinux.org/pkgbase/ttf-material-icons/'	2017-09-09 18:39	0.000000	0.003921
+b'https://ballotpedia.org/Madison_Metropolitan_School_District_elections_(2018)'	27,112 students	0.000000	0.996569
+b'https://beta.companieshouse.gov.uk/company/03504842'	5 February 1998	0.000000	0.003749
+b'https://bgp.he.net/AS13285'	Init7 (Switzerland) Ltd.	0.000000	0.005405
+b'https://billiongraves.com/cemetery/Paisley-Hawkhead-Cemetery/300756'	Description	1.000000	0.995318
+b'https://biography.wales/article/s10-HALL-AUG-1802'	Marion Löffler	0.000000	0.004406
+b'https://boardgamegeek.com/boardgame/27627/talisman-revised-4th-edition'	Fantasy Flight Games + 15 more	0.000000	0.008784
+b'https://bulbapedia.bulbagarden.net/wiki/Rattata_(Pok%C3%A9mon)'	External Links	1.000000	0.974341
+b'https://bwfbadminton.com/player/44414/anders-skaarup-rasmussen'	Danish, English, German, Norwegian	0.000000	0.004397
+b'https://cameradecision.com/review/Nikon-Coolpix-L32'	1	0.000000	0.004098
+b'https://canmore.org.uk/site/15970/blairfindy-castle'	Banffshire	0.000000	0.004064
+b'https://catalog.hathitrust.org/Record/000622241'	Find in a library	0.000000	0.994711
+b'https://cinenacional.com/persona/malena-sanchez'	7 de Agosto de 1991	0.000000	0.003791
+b'https://coinmarketcap.com/currencies/clipper-coin/'	$12,469 USD	0.000000	0.003834
+b'https://collection.cmoa.org/objects/8135577d-e3c7-4a82-be27-97e677e67434'	© Public Domain	0.000000	0.995359
+b'https://commons.wikimedia.org/wiki/File:Chase_logo_2007.svg'	The source code of this SVG is valid. This logo was created with Inkscape-extract. See Help.	0.000000	0.129662
+b'https://de.numberworld.info/wurzel-von-81'	2.4082	0.000000	0.003693
+b'https://dirigeant.societe.com/dirigeant/Mylene.GAUTIER.58262620.html'	Médias	0.000000	0.992789
+b'https://doi.org/10.22261/3FLVC0'	Citation	1.000000	0.996285
+b'https://dp.la/item/e35ab46849edbf5bbfe3b91454197627'	Standardized Rights Statement	1.000000	0.985388
+b'https://echa.europa.eu/substance-information/-/substanceinfo/100.003.044'	Hazard classification & labelling	1.000000	0.996068
+b'https://es.fifa.com/worldcup/players/player/373312/'	0	0.000000	0.003977
+b'https://filmow.com/piratas-do-caribe-a-maldicao-do-perola-negra-t934/'	9 de Julho de 2003	0.000000	0.003737
+b'https://flexikon.doccheck.com/de/Nervus_glossopharyngeus'	glossopharyngeal nerve	0.000000	0.132673
+b'https://fred.stlouisfed.org/series/RKNANPUSA666NRUG'	Suggested Citation	1.000000	0.991882
+b'https://frenchsculpture.org/fr/sculpture/700-le-magicien-de-la-serie-petites-statues-de-la-vie-precaire'	http://www.moma.org	0.000000	0.005560
+b'https://gallica.bnf.fr/ark:/12148/btv1b9018230w.item'	14/03/2011	0.000000	0.003720
+b'https://gd.eppo.int/taxon/DISOCR'	Say	0.000000	0.970993
+b'https://hijodelatormenta.bandcamp.com/'	Teclas	0.000000	0.847781
+b'https://hns-cff.hr/en/players/8754/frane-ikic/'	-	0.000000	0.113868
+b'https://imslp.org/wiki/Symphony_No.6,_Op.68_(Beethoven,_Ludwig_van)'	Wikipedia article All about Beethoven article Symphony No.6 -  Scores at Sheet Music Plus	0.000000	0.019314
+b'https://inpn.mnhn.fr/espace/protege/FR1501491'	13,818	0.000000	0.003700
+b'https://itunes.apple.com/ca/artist/nf/898094630'	Mar 30, 1991	0.000000	0.003757
+b'https://itunes.apple.com/gb/artist/nusrat-fateh-ali-khan/465998'	13 Oct 1948	0.000000	0.003766
+b'https://itunes.apple.com/nl/artist/k3/25341954'	1998	0.000000	0.004712
+b'https://itunes.apple.com/us/app/id448564325?mt=8'	9,000 神幣 $2.99 31,500 神幣 $9.99 12,000神幣 $3.99	0.000000	0.006167
+b'https://itunes.apple.com/us/artist/miles-davis/44984'	May 26, 1926	0.000000	0.003818
+b'https://librarytechnology.org/library/16224'	FL0098-002	0.000000	0.003611
+b'https://literature.britishcouncil.org/writer/bettany-hughes'	Vintage	0.000000	0.333746
+b'https://messes.info/lieu/76/le-havre/sainte-jeanne-d-arc'	stetienne-hautesterres@catholique-lehavre.cef.fr	0.000000	0.004150
+b'https://models.com/people/shannon-sinclair'	United States	0.000000	0.005422
+b'https://movie.douban.com/celebrity/1352153/'	nm7144001	0.000000	0.003804
+b'https://movie.douban.com/subject/26786642/'	tt3104988	0.000000	0.003695
+b'https://music.bugs.co.kr/album/325143?wl_ref=S_tr_01_04'	FLAC 16bit	0.000000	0.007524
+b'https://music.yandex.ru/album/718991/track/2278985'	Adele	0.000000	0.008389
+b'https://myanimelist.net/anime/37447/Karakuri_Circus'	127	0.000000	0.003868
+b'https://myanimelist.net/character/7938/Tooru_Muhyou'	38	0.000000	0.003883
+b'https://myanimelist.net/manga/17641/Mitsudomoe'	46	0.000000	0.003819
+b'https://myanimelist.net/people/5179/Teryl_Rothery'	More	1.000000	0.924209
+b'https://mydramalist.com/people/14200-nie-zi-hao'	25	0.000000	0.003888
+b'https://nass.gov.ng/mp/profile/716'	HOUSE NUMBER 32, STREET A OFF UNIVERSITY ROAD, GWAGWALADA, PHASE 1 F.C.T	0.000000	0.004911
+b'https://ncatlab.org/nlab/show/period'	The word ‘period’ has many meanings in mathematics, most of them coming from physics	1.000000	0.673952
+b'https://olympic.ca/team-canada/elvis-stojko/'	Richmond Hill, Ontario	0.000000	0.003824
+b'https://opencorporates.com/companies/us_tn/000953106'	CORPORATION SERVICE COMPANY, agent	0.000000	0.989836
+b'https://patents.google.com/patent/FR2807446A1/en'	Espacenet Global Dossier Discuss	0.000000	0.430696
+b'https://philpapers.org/rec/RAHFMN'	No categories specified	0.000000	0.994987
+b'https://premierliga.ru/players/players_16670.html'	0	0.000000	0.003977
+b'https://psaworldtour.com/players/view/10588/yemisi-olatunji'	7	0.000000	0.003853
+b'https://pubchem.ncbi.nlm.nih.gov/compound/epiandrosterone'	Laboratory Chemical Safety Summary (LCSS)	0.000000	0.987269
+b'https://publons.com/author/1225741/rani-pal'	46	0.000000	0.003819
+b'https://pypi.org/project/web-pdb/'	Software Development :: Debuggers	0.000000	0.785799
+b'https://rateyourmusic.com/artist/hailee-steinfeld'	Electropop, Dance-Pop, Future Bass, Film Soundtrack, Synthpop	0.000000	0.004652
+b'https://relationshipscience.com/person/wendy-durst-kreeger-138546548'	The Old York Foundation	0.000000	0.009633
+b'https://researchmap.jp/okamoto_ysk/'	博士（学術）(東京大学大学院)	0.000000	0.051208
+b'https://resultados.as.com/resultados/ficha/deportista/neto/21320/'	12/09/2018	0.000000	0.003981
+b'https://sabr.org/bioproj/person/ca302f54'	7 / 22 / 1982 at Oklahoma City, OK (USA)	0.000000	0.003802
+b'https://sammlung.staedelmuseum.de/de/person/monet-claude'	Impressionismus	0.000000	0.011144
+b'https://secondhandsongs.com/artist/9910/works'	Eddy Shaver Son	0.000000	0.010721
+b'https://secondhandsongs.com/work/94674'	Request a synchronization license	0.000000	0.992312
+b'https://sml.snl.no/quadriceps'	musculus quadriceps femoris	0.000000	0.011842
+b'https://sourceforge.net/projects/resx/'	Resx Editor Web Site	0.000000	0.977163
+b'https://store.playstation.com/en-gb/resolve/EP0002-CUSA12443_00-CODBO4BASEBUNDLE'	42.35 GB	0.000000	0.003817
+b'https://store.playstation.com/en-sg/product/HP9000-NPHI00024_00-IQINTELIGENTCUBE'	©1997 Sony Interactive Entertainment Inc.	0.000000	0.004353
+b'https://store.playstation.com/en-us/product/UP2139-CUSA01229_00-JBGPARTYTRIALPS4'	1.98 GB	0.000000	0.003757
+b'https://store.playstation.com/fr-ca/product/UP0700-CUSA07138_00-NARUTOUNS3000000'	Action Combat	0.000000	0.839893
+b'https://store.steampowered.com/app/742120/DRAGON_QUEST_XI_Echoes_of_an_Elusive_Age__Digital_Edition_of_Light/'	Square Enix	0.000000	0.004671
+b'https://thegymter.net/stefanie-siegenthaler/'	Active	0.000000	0.071743
+b'https://trove.nla.gov.au/newspaper/title/691'	Australia New South Wales Wollongong. Australia New South Wales South Coast.	0.000000	0.006848
+b'https://trove.nla.gov.au/people/629973?c=people'	https://nla.gov.au/nla.party-629973	0.000000	0.004403
+b'https://uk.hotels.com/ho213917/sol-arona-tenerife-arona-spain/'	Credit card or cash deposit required Government-issued photo ID required	0.000000	0.982559
+b'https://vampirediaries.fandom.com/wiki/Daniel_Gillies'	The Vampire Diaries: 2 ▪ 3 ▪ 4 ▪ 5 The Originals: 1 ▪ 2 ▪ 3 ▪ 4 ▪ 5	0.000000	0.005123
+b'https://vndb.org/v3947'	Staff	1.000000	0.984706
+b'https://whc.unesco.org/en/list/131'	131	0.000000	0.003800
+b'https://www.allmovie.com/artist/christine-baranski-p3796'	Comedy, Drama	0.000000	0.004730
+b'https://www.allmovie.com/movie/aliens-in-the-attic-v386598'	alien [not human], boyfriend, family, mind-control, New-England, summer-vacation, takeover	0.000000	0.007380
+b'https://www.allmusic.com/album/the-seeds-of-love-mw0000205746'	Styles	1.000000	0.844614
+b'https://www.allmusic.com/artist/jazmine-sullivan-mn0000546738/biography'	Jazmine Marie Sullivan Submit Corrections	0.000000	0.018202
+b'https://www.allmusic.com/composition/impromptu-for-piano-in-e-flat-major-d-899-2-op-90-2-mc0002427957'	4:38	0.000000	0.003864
+b'https://www.allmusic.com/song/i-just-want-to-make-love-to-you-mt0010879377'	1964	0.000000	0.004748
+b'https://www.amazon.com/Dreamgirl-Womens-Muertos-Costume-Headpiece/dp/B00TDW411A'	99 customer reviews	0.000000	0.223187
+b'https://www.animatedknots.com/stopperloop/index.php'	Purposes	1.000000	0.996392
+b'https://www.antoniogenna.net/doppiaggio/anim/doraemon.htm'	SIGLA	1.000000	0.828870
+b'https://www.archinform.net/arch/792.htm'	Mayer-Schwarz Gallery Beverly Hills, California	0.000000	0.004008
+b'https://www.archlinux.org/packages/extra/x86_64/konsole/'	2019-03-07 12:28 UTC	0.000000	0.004074
+b'https://www.artic.edu/artworks/80607/self-portrait'	1954.326	0.000000	0.003818
+b'https://www.baseball-reference.com/players/n/nichoki01.shtml'	Charles Augustus Nichols	0.000000	0.003880
+b'https://www.basketball-reference.com/coaches/greenbr01c.html'	PHI franchise, 1996-1997 (Full Record)	0.000000	0.009718
+b'https://www.basketball-reference.com/euro/players/phil-goss-1.html'	April 7, 1983 (Age: 35-330d) in Washington, District of Columbia	0.000000	0.003804
+b'https://www.basketball-reference.com/players/h/hansbty01.html'	November 6, 2009	0.000000	0.003734
+b'https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Guido_Girardi_Bri%C3%A8re'	Médico Cirujano - Pediatra	0.000000	0.241243
+b'https://www.beeradvocate.com/beer/profile/9969/'	17.14%	0.000000	0.003864
+b'https://www.behindthevoiceactors.com/characters/Tarzan/Terk/'	647th All Time, 1,976th This Week	0.000000	0.003973
+b'https://www.behindthevoiceactors.com/movies/The-SpongeBob-SquarePants-Movie/'	Action/Adventure, Comedy/Parody	0.000000	0.005969
+b'https://www.behindthevoiceactors.com/tv-shows/Kamisama-Kiss-Past-Arc/Nanami-Momozono/'	Kamisama Kiss	0.000000	0.018177
+b'https://www.behindthevoiceactors.com/video-games/Dragon-Ball-FighterZ/Vegeta/'	Dragon Ball	0.000000	0.013134
+b'https://www.britannica.com/biography/Edgar-Allan-Poe'	did you know?	1.000000	0.878959
+b'https://www.brooklynmuseum.org/opencollection/objects/50010'	CATALOGUE DESCRIPTION	1.000000	0.973391
+b'https://www.butterfliesandmoths.org/species/Bellura-obliqua'	American Lotus, Arrowheads, Bur-reed, Cattails, Pickeralweed, Skunk Cabbage	0.000000	0.006823
+b'https://www.canoeicf.com/athlete/max-hoff'	Biology	0.000000	0.528399
+b'https://www.charactour.com/hub/characters/view/Huey-Freeman.The-Boondocks'	Personality...	1.000000	0.546810
+b'https://www.cinema.de/stars/star/leonie-tepe,3594365,ApplicationStar.html'	Tepe	0.000000	0.221681
+b'https://www.comedien.ch/comediens/robert-bouvier/'	Français	0.000000	0.005024
+b'https://www.crunchbase.com/organization/tiger-global'	View on LinkedIn	0.000000	0.342742
+b'https://www.crunchbase.com/person/fiona-johnson'	Female	0.000000	0.048427
+b'https://www.csfd.cz/film/273582-zkus-me-rozesmat/prehled/'	Hrají	1.000000	0.991302
+b'https://www.cwgc.org/find-a-cemetery/cemetery/5001001/silent-valley-cemetery,-aden/'	Latitude: 12.74938 Longitude: 44.8618	0.000000	0.004268
+b'https://www.daao.org.au/bio/amie-kingston/'	http://www.australianprints.gov.au/	0.000000	0.004923
+b'https://www.dfi.dk/viden-om-film/filmdatabasen/film/marie-kroyer'	Rasmus Toft	0.000000	0.006879
+b'https://www.discogs.com/artist/268733-Bj%C3%B6rn-Ulvaeus'	Variations	1.000000	0.996350
+b'https://www.discogs.com/label/925-Platipus'	platipus.com	0.000000	0.007500
+b'https://www.drugbank.ca/drugs/DB01099'	35996.01 Da	0.000000	0.003773
+b'https://www.elcinema.com/person/1110963/'	31 اغسطس 1981	0.000000	0.003744
+b'https://www.elcinema.com/work/1472598/'	نعم	0.000000	0.996280
+b'https://www.elonet.fi/fi/henkilo/226456'	Loviisa	0.000000	0.005035
+b'https://www.embassypages.com/missions/embassy18022/'	No information available	0.000000	0.893505
+b'https://www.emporis.com/buildings/114532/new-york-athletic-club-new-york-city-ny-usa'	York & Sawyer	0.000000	0.008598
+b'https://www.estyn.gov.wales/provider/heronsbridge-school'	24 June 2014	0.000000	0.003689
+b'https://www.ethnologue.com/language/dbe'	Christian, traditional religion.	0.000000	0.018520
+b'https://www.fantasticfiction.com/i/greg-iles/'	Thriller, Historical, Mystery	0.000000	0.033418
+b'https://www.fashionmodeldirectory.com/brands/tommy-bahama/'	http://www.tommybahama.com	0.000000	0.005111
+b'https://www.filmaffinity.com/en/film278929.html'	Friends' ratings	1.000000	0.993776
+b'https://www.filmtv.it/film/21625/pearl-harbor/'	Ben Affleck, Josh Hartnett, Kate Beckinsale, Alec Baldwin, Tom Sizemore	0.000000	0.004472
+b'https://www.findagrave.com/cemetery/304128/live-oak-memorial-park'	6,082 added (67% photographed)	0.000000	0.005010
+b'https://www.findagrave.com/memorial/179333849/tony-scott-berchtold'	179333849 · View Source	0.000000	0.004129
+b'https://www.footballdatabase.eu/en/player/details/120291-zakaria-hadraf'	06/07/2013	0.000000	0.003772
+b'https://www.footballdatabase.eu/fr/joueur/details/71-reynald-pedros'	Russie  28/07/1993	0.000000	0.003841
+b'https://www.get-information-schools.service.gov.uk/Establishments/Establishment/Details/106375'	Trafford 014B	0.000000	0.003837
+b'https://www.gog.com/game/shadow_warrior_2_deluxe_upgrade'	Achievements Co-op Multi-player Single-player	0.000000	0.743094
+b'https://www.goodreads.com/author/show/7210511.Dima_Zales'	https://www.goodreads.com/dimazales	0.000000	0.004965
+b'https://www.hancinema.net/korean_drama_Fox_v__What_Are_You_Doing__i_.php'	2006/09/20~2006/11/09	0.000000	0.005051
+b'https://www.happycow.net/reviews/sagar-covent-garden-london-26599'	sagarveg.co.uk	0.000000	0.004471
+b'https://www.historichotels.org/hotels-resorts/the-settlers-inn-at-bingham-park'	Non-smoking property.	0.000000	0.986341
+b'https://www.hockey-reference.com/players/c/callary01.html'	@TheRealCally24	0.000000	0.004523
+b'https://www.humblebundle.com/store/return-of-the-obra-dinn'	Official Website Lucas Pope Website	0.000000	0.286511
+b'https://www.iaaf.org/athletes/athlete=261866'	261866	0.000000	0.003666
+b'https://www.ibdb.com/broadway-cast-staff/kevin-kilner-48061'	Nov 15, 1994 - Jan 01, 1995	0.000000	0.004486
+b'https://www.ibdb.com/broadway-production/travesties-3765'	Setting	1.000000	0.995407
+b'https://www.ign.com/games/dmc'	Summary	1.000000	0.996381
+b'https://www.ign.com/movies/mission-impossible-6'	Summary	1.000000	0.996381
+b'https://www.imdb.com/name/nm0330687/'	Aquarius	0.000000	0.173085
+b'https://www.jewage.org/wiki/en/Profile:P0045165105'	Лауреат Нобелевской премии по физике 1962г	0.000000	0.008999
+b'https://www.journals.elsevier.com/international-journal-of-biological-macromolecules'	0.917	0.000000	0.003694
+b'https://www.judoinside.com/judoka/85043/Denislav_Ivanov/judo-photos'	19 September 1998 (20 years)	0.000000	0.004391
+b'https://www.kinopoisk.ru/name/1152325/'	14, 2007 — 2018	0.000000	0.004803
+b'https://www.lequipe.fr/Football/FootballFicheJoueur40396.html'	Marseille	0.000000	0.003988
+b'https://www.lfp.fr/joueur/poundje-maxime'	Girondins de Bordeaux	0.000000	0.004468
+b'https://www.lnh.fr/joueurs/nicolas-claire'	Nantes	0.000000	0.004415
+b'https://www.mackolik.com/futbolcu/a-yarmolenko/8x50e0dyse2qecpv7gtku66l1'	Sol	0.000000	0.942645
+b'https://www.metacritic.com/movie/american-animals'	116 min	0.000000	0.003994
+b'https://www.metmuseum.org/art/collection/search/656429'	© Akademie der bildenden Künste, Gemäldegalerie, Vienna	0.000000	0.005140
+b'https://www.mfa.org/collections/object/carp-from-an-untitled-series-known-as-large-fish-210255'	William Sturgis Bigelow Collection	0.000000	0.007742
+b'https://www.mfah.org/art/detail/118701'	Provenance	1.000000	0.996479
+b'https://www.mlssoccer.com/players/juan-francisco-palencia'	Mexico D.F., Mexico	0.000000	0.003917
+b'https://www.mobygames.com/game/asphalt-3-street-rules'	Christian Robert, Damien Richard	0.000000	0.003858
+b'https://www.moma.org/collection/works/61054'	Drawings and Prints	0.000000	0.705209
+b'https://www.moviepilot.de/serie/degrassi-next-class'	Degrassi: Next Class	0.000000	0.009684
+b'https://www.muziekweb.nl/Link/HDX2874/The-very-best-of'	nog geen waarderingen	0.000000	0.974869
+b'https://www.nationalforests.org/our-forests/find-a-forest/tonto-national-forest'	Maps	1.000000	0.897261
+b'https://www.ncaa.com/schools/north-carolina'	Carolina Blue & White	0.000000	0.005761
+b'https://www.netflix.com/title/80079255'	Cast	1.000000	0.996099
+b'https://www.ngv.vic.gov.au/explore/collection/work/104015/'	Not on display	0.000000	0.610763
+b'https://www.nintendo.com/games/detail/xenoblade-chronicles-2-torna-the-golden-country-switch'	Nintendo	0.000000	0.014685
+b'https://www.nobelprize.org/prizes/chemistry/1969/barton/facts/'	1/2	0.000000	0.008260
+b'https://www.oktatas.hu/hivatali_ugyek/kir_intezmenykereso/!KIR_Intezmenykereso/Intezmeny/Index/035227'	06/1-437-8652	0.000000	0.003661
+b'https://www.omim.org/entry/194080'	607102	0.000000	0.003735
+b'https://www.parlament.gv.at/WWER/PAD_35517/'	SE, GE	0.000000	0.004233
+b'https://www.pornhub.com/pornstar/lisa-ann/videos'	2 years ago	0.000000	0.172427
+b'https://www.prisma.de/stars/Jessica-Ginkel,66174'	Löwe	0.000000	0.030431
+b'https://www.pro-football-reference.com/players/S/SappWa00.htm'	@WarrenSapp	0.000000	0.010081
+b'https://www.procyclingstats.com/team/team-novo-nordisk-2018'	TNN	0.000000	0.430591
+b'https://www.pss-archi.eu/immeubles/FR-31069-13338.html'	Technic, ADPi	0.000000	0.096176
+b'https://www.pw.org/content/under_the_volcano_master_classes_and_retreat'	info@underthevolcano.org	0.000000	0.008012
+b'https://www.racing-reference.info/driver/Jeff_Green'	Owensboro, KY	0.000000	0.003939
+b'https://www.researchgate.net/institution/Universidad_Tecnologica_de_Aguascalientes'	Mexico	0.000000	0.004101
+b'https://www.ricochet-jeunes.org/auteurs/hye-ji-yoon'	coréenne	0.000000	0.008454
+b'https://www.rottentomatoes.com/tv/supernatural'	Jared Padalecki, Jensen Ackles, Jeffrey Dean Morgan	0.000000	0.004096
+b'https://www.royalacademy.org.uk/art-artists/name/owen-jones'	Male	0.000000	0.869338
+b'https://www.sports-reference.com/cbb/coaches/ken-mcdonald-1.html'	2 Years (2-2), 0 Final Fours, 0 Championships	0.000000	0.007326
+b'https://www.sports-reference.com/cbb/players/charlie-moore-1.html'	California and Kansas	0.000000	0.004270
+b'https://www.sports-reference.com/cfb/players/sam-hubbard-1.html'	3rd round, 77th overall of the 2018 NFL draft by the Cincinnati Bengals	0.000000	0.007898
+b'https://www.sports-reference.com/olympics/athletes/ca/queralt-castellet-1.html'	Snowboarding	0.000000	0.021719
+b'https://www.sports.ru/tags/1292196/'	192|84	0.000000	0.003739
+b'https://www.sratim.co.il/tt1159832/%D7%94%D7%A1%D7%A4%D7%A8-%D7%94%D7%99%D7%A8%D7%95%D7%A7-(2018)/%D7%A6%D7%A4%D7%99%D7%99%D7%94-%D7%99%D7%A9%D7%99%D7%A8%D7%94/'	שחקנים	1.000000	0.614658
+b'https://www.strava.com/pros/439420'	1,659 m	0.000000	0.003771
+b'https://www.synchronkartei.de/film/16084'	13	0.000000	0.003808
+b'https://www.tebeosfera.com/autores/vazquez_gallego_manuel.html'	Autor en	1.000000	0.996324
+b'https://www.tela-botanica.org/bdtfx-nn-100897'	Centaurea	0.000000	0.004294
+b'https://www.tfrrs.org/athletes/5989336/Northern_Iowa/Alyssa_Williams.html'	22:45.9	0.000000	0.003653
+b'https://www.the-numbers.com/movie/Beautiful-Boy-(2018)'	United States	0.000000	0.005422
+b'https://www.theatresparisiensassocies.com/acteurs-theatre/thierry-melanie-498.html'	Benoît LAVIGNE Jean-Louis MARTINELLI	0.000000	0.008256
+b'https://www.themoviedb.org/movie/117084-kureyon-shinchan-arashi-o-yobu-appare-sengoku-daikassen'	79	0.000000	0.003888
+b'https://www.themoviedb.org/person/74276-cindy-pickett'	-	0.000000	0.113868
+b'https://www.theoi.com/Ouranios/MousaEuterpe.html'	Double-flute	0.000000	0.074412
+b'https://www.topuniversities.com/universities/tilburg-university'	10,580	0.000000	0.003694
+b'https://www.touringclub.it/destinazione/214972/s-antonio-abate'	Missori (3)	0.000000	0.004135
+b'https://www.tvguide.com/celebrities/neil-patrick-harris/credits/167741/'	Actor	0.000000	0.979848
+b'https://www.unifrance.org/annuaires/personne/367354/emir-seghir'	Dominique Varda	0.000000	0.004423
+b'https://www.unifrance.org/film/23821/les-rivieres-pourpres-2-les-anges-de-l-apocalypse'	détail par pays	0.000000	0.996509
+b'https://www.webumenia.sk/dielo/SVK:SNG.O_1674'	O 1674	0.000000	0.033041
+b'https://www.wikiaves.com.br/wiki/tuim'	Blue-winged Parrotlet	0.000000	0.006202
+b'https://www.wikidata.org/wiki/Q24090582'	model	0.000000	0.995868
+b'https://www.worldfootball.net/player_summary/cobi-jones/'	72 kg	0.000000	0.004172
+b'https://www.worldwaterfalldatabase.com/waterfall/Pitchfork-Falls-4484'	Bedal 7 1/2"	0.000000	0.005496
+b'https://www.wwe.com/superstars/daniel-bryan/bio'	Career Highlights	1.000000	0.994015
+b'https://www.xeno-canto.org/species/Syma-torotoro'	torotoro	0.000000	0.073800
+b'https://www.yelp.com/biz/northern-sushi-and-sashimi-flushing'	Yes	0.000000	0.129984
+b'https://www.zhihu.com/topic/20042481'	PC · PS4 · PS Vita	0.000000	0.005419
+b'https://zh.moegirl.org/zh-tw/%E4%B9%94%E9%B2%81%E8%AF%BA%C2%B7%E4%B9%94%E5%B7%B4%E6%8B%BF'	東方仗助（二喬的兒子）空條徐倫（承太郎的女兒）	0.000000	0.016943

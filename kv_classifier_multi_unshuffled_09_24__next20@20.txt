@@ -1,0 +1,324 @@
+key, text, label, prediction
+b'http://asianwiki.com/Airi_Shimizu'	O	0.000000	0.004621
+b'http://asianwiki.com/Big_Man_(Korean_Drama)'	South Korea	0.000000	0.004203
+b'http://asianwiki.com/ChaeJin_(My_Name)'	Blood Type	1.000000	0.993327
+b'http://asianwiki.com/Edison_Chen'	173cm	0.000000	0.003836
+b'http://asianwiki.com/Empress_Ki'	South Korea	0.000000	0.004203
+b'http://asianwiki.com/Jo_Ha-Suk_(1973)'	South Korea	0.000000	0.004203
+b'http://asianwiki.com/Jung_Yong-Hwa'	A	0.000000	0.009898
+b'http://asianwiki.com/My_Wife_is_a_Superwoman'	South Korea	0.000000	0.004203
+b'http://asianwiki.com/That_Psychometric_Guy'	South Korea	0.000000	0.004203
+b'http://blackclover.wikia.com/wiki/List_of_Episodes'	Episodes	0.000000	0.996337
+b'http://dontstarve.wikia.com/wiki/Miner_Hat'	"minerhat"	0.000000	0.354333
+b'http://es.riverdale.wikia.com/wiki/Polly_Cooper'	Tierra Skovbye Kadence Roach (Joven)	0.000000	0.005883
+b'http://hawaiifiveo.wikia.com/wiki/Hawaii_Five-0'	September 20, 2010 – present	0.000000	0.004779
+b'http://id.onepiece.wikia.com/wiki/Trafalgar_D._Water_Law'	Paramecia	0.000000	0.031778
+b'http://pt.simpsons.wikia.com/wiki/Bart_no_circo'	Jim Varney por Cooder	0.000000	0.009328
+b'http://www.baike.com/wiki/%E4%BB%BB%E5%BF%97%E5%BC%BA'	中国共产党	0.000000	0.025208
+b'http://www.baike.com/wiki/%E6%88%B4%E7%8E%89%E5%BC%BA'	刘燕（妻子）	0.000000	0.008261
+b'http://www.baike.com/wiki/%E6%96%B9%E5%B1%95%E5%8F%91'	当代	0.000000	0.996361
+b'http://www.baike.com/wiki/%E6%97%A5%E4%BA%A7%E9%98%B3%E5%85%89'	4个	0.000000	0.103137
+b'http://www.baike.com/wiki/%E8%83%A1%E5%85%B5'	B	0.000000	0.015764
+b'http://www.baike.com/wiki/%E8%89%BE%E8%8D%89'	H. Lév. & Vaniot, 1910	0.000000	0.004057
+b'http://www.baike.com/wiki/%E9%94%A1%E7%BA%B8'	铝箔纸	0.000000	0.786678
+b'http://www.baike.com/wiki/IP%5B%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%5D'	经济学	0.000000	0.303462
+b'http://www.filmaffinity.com/es/film143774.html'	Sinopsis	1.000000	0.011672
+b'http://www.filmaffinity.com/es/film173558.html'	Sinopsis	1.000000	0.011672
+b'http://www.filmaffinity.com/es/film258365.html'	Premios	1.000000	0.996449
+b'http://www.filmaffinity.com/es/film370806.html'	Sinopsis	1.000000	0.011672
+b'http://www.filmaffinity.com/es/film516870.html'	Sinopsis	1.000000	0.011672
+b'http://www.filmaffinity.com/es/film592267.html'	Premios	1.000000	0.996449
+b'http://www.filmaffinity.com/es/film678702.html'	Premios	1.000000	0.996449
+b'http://www.filmaffinity.com/es/film757788.html'	Premios	1.000000	0.996449
+b'http://www.filmaffinity.com/es/film914606.html'	Sinopsis	1.000000	0.011672
+b'https://baike.baidu.com/item/%E4%B8%80%E4%B8%BE%E6%88%90%E5%90%8D'	tt0118749	0.000000	0.003665
+b'https://baike.baidu.com/item/%E4%B8%81%E5%86%A0%E6%A3%AE'	笑傲江湖、谁的青春不迷茫、青禾男高、头大的爱情、青茫、女仆咖啡厅	0.000000	0.012787
+b'https://baike.baidu.com/item/%E6%88%91%E7%9A%84%E5%A4%B1%E5%BF%86%E5%A5%B3%E5%8F%8B/30828'	已完结	0.000000	0.993312
+b'https://baike.baidu.com/item/%E6%9C%BA%E6%A2%B0%E8%A1%A8'	金属	0.000000	0.972155
+b'https://baike.baidu.com/item/%E6%B1%AA%E5%BB%BA/69426'	男	0.000000	0.964744
+b'https://baike.baidu.com/item/%E9%A9%AC%E6%A2%85%E5%88%A9%E4%B9%8B%E6%AD%8C'	歌曲	0.000000	0.996471
+b'https://baike.so.com/doc/2182444-2309282.html'	打狗棍、灵魂摆渡之风华绝代、铁梨花	0.000000	0.055824
+b'https://baike.so.com/doc/2362742-2498466.html'	1986年12月12日	0.000000	0.003832
+b'https://baike.so.com/doc/5340811-5626561.html'	彩色	0.000000	0.994065
+b'https://baike.so.com/doc/5374434-5610479.html'	否	0.000000	0.996525
+b'https://baike.so.com/doc/5421940-5660131.html'	2D	0.000000	0.012646
+b'https://baike.so.com/doc/5662508-5875164.html'	中国	0.000000	0.007282
+b'https://baike.so.com/doc/6174939-6388180.html'	小飞鼠	0.000000	0.013289
+b'https://baike.so.com/doc/7171029-7395058.html'	威化岛回军	0.000000	0.073737
+b'https://baike.sogou.com/h10103069.htm?sp=l149572776'	163cm	0.000000	0.003822
+b'https://baike.sogou.com/h41637424.htm?sp=l61031815'	Lee Da-Hee	0.000000	0.006433
+b'https://baike.sogou.com/h50834938.htm'	牛	0.000000	0.344255
+b'https://baike.sogou.com/h57899659.htm'	24	0.000000	0.003881
+b'https://baike.sogou.com/h6212796.htm;jsessionid=7102EA72800B710CB04D102AE6385CF5?sp=l95582560'	桥墩	0.000000	0.996488
+b'https://baike.sogou.com/v122824.htm'	管径较细，管壁较薄	0.000000	0.989808
+b'https://baike.sogou.com/v164280.htm'	TRC	0.000000	0.101778
+b'https://baike.sogou.com/v72291968.htm'	梶原一骑	0.000000	0.004678
+b'https://baike.sogou.com/v7728240.htm'	聚己二酰己二胺	0.000000	0.522435
+b'https://ballotpedia.org/Bernadine_Kennedy_Kent'	Facebook	0.000000	0.440631
+b'https://ballotpedia.org/Glenn_Anderson,_Washington_Representative'	Website	0.000000	0.996446
+b'https://ballotpedia.org/Janice_McGeachin'	Website	0.000000	0.996446
+b'https://ballotpedia.org/Jim_Costa'	Website Facebook	0.000000	0.995895
+b'https://ballotpedia.org/Kathleen_Kennedy'	November 8, 2016	0.000000	0.003735
+b'https://ballotpedia.org/Lois_Frankel'	Website Facebook Twitter	0.000000	0.993649
+b'https://ballotpedia.org/Madison_Metropolitan_School_District_elections_(2018)'	27,112 students	0.000000	0.003733
+b'https://ballotpedia.org/Sandra_Kennedy'	Arizona State University	0.000000	0.005915
+b'https://ballotpedia.org/Seal_Beach,_California,_Measure_BB,_General_Sales_Tax_(November_2018)'	Seal Beach, California	0.000000	0.003848
+b'https://book.douban.com/subject/10774936/'	9787562467021	0.000000	0.003949
+b'https://book.douban.com/subject/1364483/'	9789867576651	0.000000	0.004053
+b'https://book.douban.com/subject/1669154/'	9787884033317	0.000000	0.003930
+b'https://book.douban.com/subject/1760488/'	9787222000100	0.000000	0.003919
+b'https://book.douban.com/subject/1911687/'	9787800806063	0.000000	0.003848
+b'https://book.douban.com/subject/20273181/'	9787511233745	0.000000	0.004093
+b'https://book.douban.com/subject/27059526/'	9787550292260	0.000000	0.003986
+b'https://book.douban.com/subject/3038761/'	9787508611099	0.000000	0.003906
+b'https://book.douban.com/subject/3094230/'	9787121062278	0.000000	0.003895
+b'https://book.douban.com/subject/4212873/'	9787807633570	0.000000	0.003881
+b'https://borderlands.fandom.com/wiki/Mysterious_Amulet'	Borderlands 2	0.000000	0.006090
+b'https://escapefromtarkov.gamepedia.com/Chemical_-_Part_2'	Skier	0.000000	0.274524
+b'https://fallout.gamepedia.com/VATS_matrix_overlay'	0020373e (X-01) 0020373f (T-60) 0017a5ad (T-51) 00203740 (T-45)	0.000000	0.006101
+b'https://liquipedia.net/counterstrike/ZOTAC_Cup/Masters/2018/Asia/Taiwan'	Qualifier	0.000000	0.996524
+b'https://liquipedia.net/dota2/Sanya_Dota2_New-Stars_Play/2018/Closed_Qualifier'	Qualifier	0.000000	0.996524
+b'https://liquipedia.net/dota2/User:KarmaChameleon/BOOM_ID'	Southeast Asia	0.000000	0.019420
+b'https://liquipedia.net/leagueoflegends/GPL/2018/Spring'	Major	0.000000	0.688120
+b'https://liquipedia.net/rainbowsix/Team_Oplon'	2018-06-01	0.000000	0.004271
+b'https://liquipedia.net/smash/Supahsemmie'	Mario	0.000000	0.061328
+b'https://liquipedia.net/starcraft2/Campaign/Maw_of_the_Void'	none	0.000000	0.671076
+b'https://liquipedia.net/starcraft2/Drewbie'	$5,932.16	0.000000	0.003830
+b'https://liquipedia.net/starcraft2/FanTaSy'	$37,040.75	0.000000	0.996535
+b'https://liquipedia.net/starcraft2/Jim'	#95 (60 points)	0.000000	0.004045
+b'https://m.baike.so.com/doc/1881672-1990732.html'	日本爱知県名古屋市	0.000000	0.004237
+b'https://m.baike.so.com/doc/2674548-2824292.html'	汉	0.000000	0.168581
+b'https://monstersvsaliens.fandom.com/wiki/Monsters_vs._Aliens_(television_series)'	日产阳光	0.000000	0.128698
+b'https://movie.douban.com/celebrity/1017207/'	nm0944624	0.000000	0.003714
+b'https://movie.douban.com/celebrity/1144542/'	nm0722476	0.000000	0.003817
+b'https://movie.douban.com/celebrity/1167218/'	nm0902623	0.000000	0.003734
+b'https://movie.douban.com/celebrity/1274507/'	nm0485950	0.000000	0.003748
+b'https://movie.douban.com/celebrity/1352153/'	nm7144001	0.000000	0.003804
+b'https://movie.douban.com/celebrity/1378715/'	nm2819219	0.000000	0.003691
+b'https://movie.douban.com/celebrity/1397178/'	weibo.com/u/2623007997	0.000000	0.003947
+b'https://movie.douban.com/subject/1292642/'	tt0116329	0.000000	0.003670
+b'https://movie.douban.com/subject/20436383/'	tt2556342	0.000000	0.003690
+b'https://movie.douban.com/subject/20438962/'	tt2562232	0.000000	0.003662
+b'https://movie.douban.com/subject/2124724/'	tt1037850	0.000000	0.003671
+b'https://movie.douban.com/subject/25885384/'	11	0.000000	0.003767
+b'https://movie.douban.com/subject/25919910/comments'	2015-11-11(台北金马影展), 2015-12-10(中国大陆)	0.000000	0.004858
+b'https://movie.douban.com/subject/26577937/'	tt4883758	0.000000	0.003722
+b'https://movie.douban.com/subject/26786642/'	tt3104988	0.000000	0.003695
+b'https://movie.douban.com/subject/4896304/'	龙门飞甲	0.000000	0.118154
+b'https://movie.douban.com/subject/5265471/'	tt1714915	0.000000	0.003699
+b'https://mtg.gamepedia.com/Kamigawa'	Unknown	0.000000	0.803293
+b'https://music.douban.com/subject/1427604/'	祈 （全部）	0.000000	0.051146
+b'https://music.douban.com/subject/1432169/'	0028944744125	0.000000	0.003798
+b'https://music.douban.com/subject/1867068/'	CNA230647700	0.000000	0.003628
+b'https://music.douban.com/subject/26345841/'	9784840153157	0.000000	0.004262
+b'https://music.douban.com/subject/3065152/'	CNC180634000	0.000000	0.003640
+b'https://music.douban.com/subject/3578604/'	2	0.000000	0.004247
+b'https://music.douban.com/subject/4130240/'	4988010023409	0.000000	0.003767
+b'https://music.douban.com/subject/4184841/'	国外	0.000000	0.992819
+b'https://music.douban.com/subject/5042195/'	4988003388980	0.000000	0.003837
+b'https://music.douban.com/subject/6554674/'	9787885253240	0.000000	0.003964
+b'https://myanimelist.net/anime/1604/Katekyo_Hitman_Reborn/userrecs'	14,359	0.000000	0.003711
+b'https://myanimelist.net/anime/18617/Girls___Panzer_Movie/video'	815	0.000000	0.003665
+b'https://myanimelist.net/anime/31710/Divine_Gate/reviews'	233	0.000000	0.003770
+b'https://myanimelist.net/anime/32951/Rokudenashi_Majutsu_Koushi_to_Akashic_Records'	1,736	0.000000	0.003679
+b'https://myanimelist.net/anime/37447/Karakuri_Circus'	74	0.000000	0.003895
+b'https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai/pics'	3,963	0.000000	0.003763
+b'https://myanimelist.net/anime/37517/Happy_Sugar_Life/video'	513	0.000000	0.003740
+b'https://myanimelist.net/anime/5644/Sora_no_Iro_Mizu_no_Iro_Ero_Specials'	4	0.000000	0.003935
+b'https://myanimelist.net/anime/7014/Tezuka_Osamu_no_Buddha__Akai_Sabaku_yo_Utsukushiku'	15	0.000000	0.003851
+b'https://myanimelist.net/character/119569/Shikadai_Nara'	148	0.000000	0.003862
+b'https://myanimelist.net/character/131630/Felia'	28	0.000000	0.003928
+b'https://myanimelist.net/character/145881/Rin'	11	0.000000	0.003767
+b'https://myanimelist.net/character/147990/Xi_Duanmu'	42	0.000000	0.003913
+b'https://myanimelist.net/character/14908/Ariabert_Tytania'	2	0.000000	0.004247
+b'https://myanimelist.net/character/1747/Kaito_Kuroba'	2,559	0.000000	0.003734
+b'https://myanimelist.net/character/2131/Tao_Pai_Pai'	27	0.000000	0.003832
+b'https://myanimelist.net/character/55977/Aka_no_Saber/pictures'	961	0.000000	0.003731
+b'https://myanimelist.net/character/70405/Orion'	101	0.000000	0.003732
+b'https://myanimelist.net/character/7938/Tooru_Muhyou'	39	0.000000	0.003860
+b'https://myanimelist.net/manga/10330/Oboreru_Knife'	154	0.000000	0.003811
+b'https://myanimelist.net/manga/112393/Koushin_Koinu_ni_Koibumi_wo'	7	0.000000	0.003853
+b'https://myanimelist.net/manga/17641/Mitsudomoe'	44	0.000000	0.003847
+b'https://myanimelist.net/manga/25855/Gunka_no_Baltzar'	81	0.000000	0.003872
+b'https://myanimelist.net/manga/26292/Black%E2%98%85Rock_Shooter__Innocent_Soul'	317	0.000000	0.003738
+b'https://myanimelist.net/manga/73145/Kamigami_no_Asobi'	14	0.000000	0.003833
+b'https://myanimelist.net/manga/762/Tokyo_Crazy_Paradise'	708	0.000000	0.003690
+b'https://myanimelist.net/manga/78201/Awfully_Damn_Kiss_and_Hug'	40	0.000000	0.003959
+b'https://myanimelist.net/manga/92162/Ore_no_Shikabane_wo_Koete_Yuke__Norowareshi_Kyoudai_no_Rondo/stats'	0	0.000000	0.003977
+b'https://myanimelist.net/people/12049/Kurumi_Enomoto'	Nagoya, Aichi, Japan	0.000000	0.003823
+b'https://myanimelist.net/people/12286/Mao_Nanami'	13	0.000000	0.003808
+b'https://myanimelist.net/people/16993/ONE'	@ONE_rakugaki	0.000000	0.036555
+b'https://myanimelist.net/people/20164/Ai_Kirishima'	0	0.000000	0.003977
+b'https://myanimelist.net/people/25943/Shake_O'	5	0.000000	0.003803
+b'https://myanimelist.net/people/341/Hirofumi_Nojima/pictures'	@nojimahirofumi	0.000000	0.021508
+b'https://myanimelist.net/people/43977/Nagioka'	#211254	0.000000	0.003691
+b'https://myanimelist.net/people/5179/Teryl_Rothery'	1	0.000000	0.004098
+b'https://myanimelist.net/people/6726/Keiichirou_Kawaguchi'	Kawasaki, Kanagawa Prefecture, Japan	0.000000	0.003955
+b'https://myanimelist.net/people/8187/Koji_Masunari'	Shimane, Japan	0.000000	0.003752
+b'https://mydramalist.com/10377-leh-nangfah'	Not Yet Rated	0.000000	0.967933
+b'https://mydramalist.com/11544-maids'	15+ - Teens 15 or older	0.000000	0.013030
+b'https://mydramalist.com/12885-missing-noir-m'	15+ - Teens 15 or older	0.000000	0.013030
+b'https://mydramalist.com/15355-mischievous-kiss-the-movie-high-school'	G - All Ages	0.000000	0.310498
+b'https://mydramalist.com/16939-far-away-love/episodes'	1,994	0.000000	0.003725
+b'https://mydramalist.com/25154-the-first-love-of-the-man-who-was-thousand-years-old'	Not Yet Rated	0.000000	0.967933
+b'https://mydramalist.com/people/1360-chen-fala'	36	0.000000	0.003827
+b'https://mydramalist.com/people/13759-lai-newton'	June 13, 2013	0.000000	0.003737
+b'https://mydramalist.com/people/14200-nie-zi-hao'	25	0.000000	0.003888
+b'https://mydramalist.com/people/15517-yuan-zi-yi'	31	0.000000	0.003837
+b'https://mydramalist.com/people/15527-sha-yi'	40	0.000000	0.003959
+b'https://mydramalist.com/people/17457-park-ga-ram'	18	0.000000	0.003908
+b'https://mydramalist.com/people/18517-jung-gun-joo'	23	0.000000	0.003820
+b'https://mydramalist.com/people/2322-gao-zi-qi'	37	0.000000	0.003866
+b'https://mydramalist.com/people/646-hsu-tiffany'	34	0.000000	0.003883
+b'https://mydramalist.com/people/7873-choi-jung-won'	37	0.000000	0.003866
+b'https://pathofexile.gamepedia.com/Enchanted_Fossil'	Metadata/Items/Currency/CurrencyDelveCraftingEnchant	0.000000	0.541789
+b'https://terraria.gamepedia.com/1.0.5'	June 23, 2011	0.000000	0.003704
+b'https://twinpeaks.fandom.com/wiki/Twin_Peaks'	Twin Peaks: Fire Walk with Me	0.000000	0.004605
+b'https://voltron.fandom.com/wiki/Haggar_(Legendary_Defender)'	Haggar	0.000000	0.194192
+b'https://walkingdead.fandom.com/wiki/Better_Angels'	Also Starring	1.000000	0.992688
+b'https://wapbaike.baidu.com/item/%E8%A3%B4%E5%A8%9C'	费德南秘书	0.000000	0.500768
+b'https://wapbaike.baidu.com/item/%E8%B1%B9%E7%8C%AB'	脊索动物门	0.000000	0.056749
+b'https://www.baseball-reference.com/players/b/boonebo01.shtml'	Father of Aaron Boone, Bret Boone; Son of Ray Boone	0.000000	0.007971
+b'https://www.baseball-reference.com/players/c/clarkph01.shtml'	Philip James Clark	0.000000	0.003708
+b'https://www.baseball-reference.com/players/e/everile01.shtml'	Edward Leon Everitt	0.000000	0.003819
+b'https://www.baseball-reference.com/players/gl.fcgi?id=machama01&t=b&year=2017'	Brother-In-Law of Yonder Alonso	0.000000	0.046828
+b'https://www.baseball-reference.com/players/n/nichoki01.shtml'	Charles Augustus Nichols	0.000000	0.003880
+b'https://www.baseball-reference.com/players/o/ohse01.shtml'	\SOONG-hwan\	0.000000	0.012771
+b'https://www.baseball-reference.com/players/p/parkch01.shtml'	\Chan Ho PARK\	0.000000	0.005122
+b'https://www.baseball-reference.com/players/p/puentmi01.shtml'	Migel Antonio Puente	0.000000	0.004893
+b'https://www.baseball-reference.com/players/split.fcgi?id=heywaja01&t=b&year=2018'	The J-Hey Kid	0.000000	0.011396
+b'https://www.baseball-reference.com/players/z/zachrpa01.shtml'	Patrick Paul Zachry	0.000000	0.004910
+b'https://www.baseball-reference.com/teams/ARI/2004-schedule-scores.shtml'	Park Factors	1.000000	0.053807
+b'https://www.baseball-reference.com/teams/BSN/1951.shtml'	Park Factors	1.000000	0.053807
+b'https://www.baseball-reference.com/teams/CLE/1871.shtml'	Park Factors	1.000000	0.053807
+b'https://www.baseball-reference.com/teams/DET/1942-batting.shtml'	Park Factors	1.000000	0.053807
+b'https://www.baseball-reference.com/teams/OAK/2012.shtml'	Lost	AL Division Series	(3-2) to	Detroit Tigers	0.000000	0.027299
+b'https://www.baseball-reference.com/teams/SDP/2011-roster.shtml'	Park Factors	1.000000	0.053807
+b'https://www.baseball-reference.com/teams/SEA/leaders_pitch_50.shtml'	Lou Piniella, 840-711, .542 W-L%	0.000000	0.004260
+b'https://www.baseball-reference.com/teams/STL/1900-transactions.shtml'	Park Factors	1.000000	0.053807
+b'https://www.basketball-reference.com/players/a/askinke01.html'	December 11, 1990	0.000000	0.003740
+b'https://www.basketball-reference.com/players/b/brackcr01.html'	November 24, 2010	0.000000	0.003681
+b'https://www.basketball-reference.com/players/c/catlesi01.html'	November 3, 1971	0.000000	0.003751
+b'https://www.basketball-reference.com/players/d/dilladw01.html'	October 31, 1975	0.000000	0.003789
+b'https://www.basketball-reference.com/players/d/dischte01.html'	October 20, 1962	0.000000	0.003762
+b'https://www.basketball-reference.com/players/h/hansbty01.html'	November 6, 2009	0.000000	0.003734
+b'https://www.basketball-reference.com/players/h/hentola01.html'	Rookie	0.000000	0.995739
+b'https://www.basketball-reference.com/players/k/kingal01.html'	November 10, 1981	0.000000	0.003752
+b'https://www.basketball-reference.com/players/s/smithdo02.html'	October 22, 1974	0.000000	0.003760
+b'https://www.basketball-reference.com/teams/CIN/1971_transactions.html'	Cincinnati Gardens	0.000000	0.010215
+b'https://www.basketball-reference.com/teams/FTW/1951_transactions.html'	Lost NBA Western Division Semifinals (1-2) versus Rochester Royals  (Series Stats)	0.000000	0.063766
+b'https://www.basketball-reference.com/teams/GSW/1984_transactions.html'	316,844 (19th of 23)	0.000000	0.003908
+b'https://www.basketball-reference.com/teams/NYK/1990_depth.html'	NBA 1990 Playoffs	1.000000	0.319727
+b'https://www.basketball-reference.com/teams/ROC/1957.html'	Rochester Community War Memorial	0.000000	0.011340
+b'https://www.basketball-reference.com/teams/UTA/2003.html'	Lost NBA Western Conference First Round (1-4) versus Sacramento Kings  (Series Stats)	0.000000	0.059458
+b'https://www.britannica.com/biography/Edgar-Allan-Poe'	DID YOU KNOW?	1.000000	0.695860
+b'https://www.britannica.com/biography/Pawel-Pawlikowski'	Academy Award	0.000000	0.995419
+b'https://www.britannica.com/biography/Taisho'	Taishō Period	0.000000	0.009057
+b'https://www.cricbuzz.com/profiles/10369/lakhan-singh'	India, Services, Meghalaya	0.000000	0.004807
+b'https://www.cricbuzz.com/profiles/10875/aamir-ashraf-sofi'	Jammu and Kashmir	0.000000	0.005054
+b'https://www.cricbuzz.com/profiles/10894/ganeshraj-dayanand-narvekar'	Goa	0.000000	0.004643
+b'https://www.cricbuzz.com/profiles/11900/nur-alam'	Bangladesh, Khulna Titans	0.000000	0.004347
+b'https://www.cricbuzz.com/profiles/3556/jayananda-warnaweera'	Sri Lanka	0.000000	0.004548
+b'https://www.cricbuzz.com/profiles/3706/waqar-younis'	Pakistan	0.000000	0.004636
+b'https://www.cricbuzz.com/profiles/3874/navjot-sidhu'	India	0.000000	0.005272
+b'https://www.cricbuzz.com/profiles/6156/alf-valentine'	Windies	0.000000	0.006657
+b'https://www.cricbuzz.com/profiles/8099/dane-vilas'	Teams	1.000000	0.996397
+b'https://www.crunchbase.com/organization/exotel'	+91 80 88 919888	0.000000	0.003674
+b'https://www.crunchbase.com/organization/g1-therapeutics'	(919) 213-9835	0.000000	0.003671
+b'https://www.crunchbase.com/organization/marke-communications'	212.201.0600	0.000000	0.003710
+b'https://www.crunchbase.com/organization/myskin'	+1 (201) 500-7077	0.000000	0.003661
+b'https://www.crunchbase.com/organization/partpic'	(404) 618-0604	0.000000	0.003763
+b'https://www.crunchbase.com/organization/shoptree-2'	+1 (855) 855-3141	0.000000	0.003702
+b'https://www.crunchbase.com/organization/tiger-global'	View on LinkedIn	0.000000	0.342742
+b'https://www.crunchbase.com/organization/tmt-finance'	+4402037474602	0.000000	0.003727
+b'https://www.crunchbase.com/person/candice-blount'	Female	0.000000	0.048427
+b'https://www.crunchbase.com/person/francisca-barros-ariztia'	View on LinkedIn	0.000000	0.342742
+b'https://www.crunchbase.com/person/jason-langone'	View on Twitter	0.000000	0.898302
+b'https://www.crunchbase.com/person/john-edge'	View on Twitter	0.000000	0.898302
+b'https://www.crunchbase.com/person/julia-karol'	Female	0.000000	0.048427
+b'https://www.crunchbase.com/person/karan-gupta-2094'	Male	0.000000	0.869338
+b'https://www.crunchbase.com/person/manuel-valdes-sanchez'	Male	0.000000	0.869338
+b'https://www.crunchbase.com/person/peter-kellner'	View on LinkedIn	0.000000	0.342742
+b'https://www.crunchbase.com/person/rick-schirmer'	Male	0.000000	0.869338
+b'https://www.crunchbase.com/person/vas-narasimhan'	View on Twitter	0.000000	0.898302
+b'https://www.filmaffinity.com/ar/film550924.html'	Sinopsis	1.000000	0.011672
+b'https://www.giantbomb.com/spellcraft-aspects-of-valor/3030-17441/'	Action Strategy Adventure	0.000000	0.063801
+b'https://www.hockey-reference.com/players/c/callary01.html'	@TheRealCally24	0.000000	0.004523
+b'https://www.hockey-reference.com/players/c/coutuse01-advanced.html'	\SHAWN koo-TOO-ree-ay\	0.000000	0.014133
+b'https://www.hockey-reference.com/players/g/greigma01.html'	Brother Bruce Greig	0.000000	0.025304
+b'https://www.hockey-reference.com/players/k/klefbos01.html'	@Klefbom93	0.000000	0.004232
+b'https://www.hockey-reference.com/players/l/lewishe01.html'	Inducted as Player 1989 (Full List)	0.000000	0.275219
+b'https://www.hockey-reference.com/players/m/manthry01.html'	NY Rangers, 4th round (104th overall), 2014 NHL Entry	0.000000	0.008019
+b'https://www.hockey-reference.com/players/m/motzkjo01.html'	St. Cloud State	0.000000	0.005162
+b'https://www.hockey-reference.com/players/n/nielsfr01-advanced.html'	@NielsenFrans	0.000000	0.061303
+b'https://www.hockey-reference.com/players/s/smaildo01.html'	North Dakota	0.000000	0.003918
+b'https://www.hockey-reference.com/players/t/turcoal01.html'	Nanaimo Islanders, Portland Winter Hawks	0.000000	0.005954
+b'https://www.hockey-reference.com/teams/BOS/1930_headtohead.html'	Lost Stanley Cup Final (2-0) versus Montreal Canadiens Won Semi-Finals (3-1) versus Montreal Maroons	0.000000	0.027907
+b'https://www.hockey-reference.com/teams/VEG/2019_situational.html'	-0.06 (27th of 31)	0.000000	0.003733
+b'https://www.imdb.com/name/nm0049194/'	Aquarius	0.000000	0.173085
+b'https://www.imdb.com/name/nm0330687/'	Aquarius	0.000000	0.173085
+b'https://www.imdb.com/name/nm0516003/'	Scorpio	0.000000	0.159598
+b'https://www.imdb.com/name/nm0731075/bio'	5' 2" (1.57 m)	0.000000	0.003829
+b'https://www.imdb.com/name/nm1557594/'	Personal Quote	1.000000	0.996315
+b'https://www.imdb.com/name/nm1734739/'	Gemini	0.000000	0.039990
+b'https://www.imdb.com/name/nm3285668/'	6' 1¼" (1.86 m)	0.000000	0.003847
+b'https://www.imdb.com/name/nm3332894/bio'	Jordan William Fisher	0.000000	0.003824
+b'https://www.imdb.com/title/tt0110657/'	1.85 : 1	0.000000	0.003816
+b'https://www.imdb.com/title/tt1618442/'	2.35 : 1	0.000000	0.003921
+b'https://www.imdb.com/title/tt2106795/'	1.78 : 1	0.000000	0.003771
+b'https://www.imdb.com/title/tt2217895/'	Color	0.000000	0.996539
+b'https://www.imdb.com/title/tt4122068/'	16:9 HD	0.000000	0.003972
+b'https://www.imdb.com/title/tt4971408/fullcredits'	Paul Campion	...	special thanks	0.000000	0.042703
+b'https://www.imdb.com/title/tt6191390/fullcredits'	Avery Guerra	...	special thanks	0.000000	0.194733
+b'https://www.pro-football-reference.com/players/B/BascBr00.htm'	Chicago Bears in the 3rd round (66th overall) of the 1976 NFL Draft.	0.000000	0.006818
+b'https://www.pro-football-reference.com/players/F/FranBu00.htm'	Green Bay Packers in the 1st round (14th overall) of the 2000 NFL Draft.	0.000000	0.007918
+b'https://www.pro-football-reference.com/players/H/HarrJo04.htm'	Duncanville (TX)	0.000000	0.004405
+b'https://www.pro-football-reference.com/players/H/HarrNo20.htm'	@NolanHarrison74	0.000000	0.003928
+b'https://www.pro-football-reference.com/players/M/McDoRi20.htm'	Brother Devon McDonald	0.000000	0.007149
+b'https://www.pro-football-reference.com/players/N/NewsTi00.htm'	Dallas Cowboys in the 6th round (162nd overall) of the 1980 NFL Draft.	0.000000	0.006741
+b'https://www.pro-football-reference.com/players/R/RobeRa20.htm'	Seattle Seahawks in the 1st round (10th overall) of the 1992 NFL Draft.	0.000000	0.008711
+b'https://www.pro-football-reference.com/players/S/SappWa00.htm'	@WarrenSapp	0.000000	0.010081
+b'https://www.pro-football-reference.com/players/S/SehoJa20.htm'	\SEA-horn\	0.000000	0.049255
+b'https://www.pro-football-reference.com/players/S/StorBr00.htm'	New England Patriots in the 4th round (105th overall) of the 2014 NFL Draft.	0.000000	0.007596
+b'https://www.pro-football-reference.com/teams/atl/2015-snap-counts.htm'	Atlanta Falcons Training Facility (Flowery Branch, Georgia)	0.000000	0.005179
+b'https://www.pro-football-reference.com/teams/car/2017_travel.htm'	Wofford College (Spartanburg, South Carolina)	0.000000	0.005353
+b'https://www.pro-football-reference.com/teams/crd/1983.htm'	Eastern Illinois University (Charleston, Illinois)	0.000000	0.004570
+b'https://www.pro-football-reference.com/teams/det/1971_draft.htm'	Cranbrook Educational Community (Bloomfield Hills, Michigan)	0.000000	0.004460
+b'https://www.pro-football-reference.com/teams/det/1991/gamelog/'	Silverdome (Pontiac, Michigan)	0.000000	0.004004
+b'https://www.pro-football-reference.com/teams/htx/2003_roster.htm'	Houston Texans Training Facility (Houston, Texas)	0.000000	0.004555
+b'https://www.pro-football-reference.com/teams/nor/1973_roster.htm'	University of Southern Mississippi (Hattiesburg, Mississippi)	0.000000	0.004074
+b'https://www.pro-football-reference.com/teams/nwe/2015/gamelog/'	Gillette Stadium (Foxborough, Massachusetts)	0.000000	0.004226
+b'https://www.pro-football-reference.com/teams/nyg/2014_roster.htm'	Quest Diagnostics Training Center (East Rutherford, New Jersey)	0.000000	0.005082
+b'https://www.pro-football-reference.com/teams/sea/1983_draft.htm'	Eastern Washington University (Cheney, Washington)	0.000000	0.004694
+b'https://www.rottentomatoes.com/celebrity/carl_weathers/'	New Orleans, Louisiana, USA	0.000000	0.003754
+b'https://www.rottentomatoes.com/celebrity/grayson_russell'	Not Available	0.000000	0.665745
+b'https://www.rottentomatoes.com/celebrity/jefery_levy/'	Not Available	0.000000	0.665745
+b'https://www.rottentomatoes.com/celebrity/jessica_raine/'	Not Available	0.000000	0.665745
+b'https://www.rottentomatoes.com/celebrity/lily-rabe/'	Not Available	0.000000	0.665745
+b'https://www.rottentomatoes.com/celebrity/michael_irby/'	Not Available	0.000000	0.665745
+b'https://www.rottentomatoes.com/celebrity/neville_archambault/'	Not Available	0.000000	0.665745
+b'https://www.rottentomatoes.com/celebrity/peter_m_lenkov'	Not Available	0.000000	0.665745
+b'https://www.rottentomatoes.com/celebrity/richard_thomas/'	New York, New York	0.000000	0.004051
+b'https://www.rottentomatoes.com/celebrity/ryan_potter/'	Not Available	0.000000	0.665745
+b'https://www.rottentomatoes.com/m/10011295_samson_and_delilah'	Indiepix	0.000000	0.022878
+b'https://www.rottentomatoes.com/m/1017021_quo_vadis'	MGM Home Entertainment	0.000000	0.006599
+b'https://www.rottentomatoes.com/m/a_fantastic_woman/'	Sony Pictures Classics	0.000000	0.006528
+b'https://www.rottentomatoes.com/m/another_cinderella_story/'	Warner Home Video	0.000000	0.008767
+b'https://www.rottentomatoes.com/m/big_combo'	All Channel Films	0.000000	0.006197
+b'https://www.rottentomatoes.com/m/britannic'	Regent Entertainment	0.000000	0.005602
+b'https://www.rottentomatoes.com/m/frida'	Miramax Films	0.000000	0.004190
+b'https://www.rottentomatoes.com/m/place_in_the_sun/'	Paramount Pictures	0.000000	0.004849
+b'https://www.rottentomatoes.com/m/the_little_mermaid_1989'	Walt Disney Pictures	0.000000	0.004605
+b'https://www.rottentomatoes.com/m/theres_a_stranger_in_my_house/'	75 minutes	0.000000	0.003953
+b'https://www.wikiart.org/en/anders-zorn/misses-solomon'	children	0.000000	0.992816
+b'https://www.wikiart.org/en/barbara-kruger/untitled-who-is-bought-and-sold-1990'	figurative	0.000000	0.226574
+b'https://www.wikiart.org/en/camille-pissarro/half-length-portrait-of-lucien-pissarro'	Ashmolean Museum, Oxford, UK	0.000000	0.004286
+b'https://www.wikiart.org/en/pablo-picasso/a-simple-meal-1904-1'	24 x 33 cm	0.000000	0.003784
+b'https://www.wikiart.org/en/pablo-picasso/self-portrait-1906-3'	male-portraits, famous-people, Pablo-Picasso	0.000000	0.007972
+b'https://www.wikiart.org/es/adolf-wolfli'	es.wikipedia.org/wiki/Adolf_Wölfli	0.000000	0.006159
+b'https://www.wikiart.org/es/fausto-melotti'	fr.wikipedia.org/wiki/Fausto_Melotti	0.000000	0.005022
+b'https://www.wikiart.org/fr/salvador-dali'	fr.wikipedia.org/wiki/Salvador_Dalí	0.000000	0.004732
+b'https://www.wikiart.org/ru/fransisko-bayeu'	ru.wikipedia.org/wiki/Байеу,_Франсиско	0.000000	0.005543
+b'https://xmenmovies.fandom.com/wiki/Shadowcat'	Sumela Kay (X-Men)	0.000000	0.004628
+b'https://youtube.fandom.com/wiki/Muselk'	Muselk	0.000000	0.067627
+b'https://zelda.gamepedia.com/Gongoron'	Biggoron (father)	0.000000	0.162057
